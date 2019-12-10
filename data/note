@@ -1,1 +1,1 @@
-cat ms.json | sed 's/\"\([a-Z][a-Z][a-Z]\)_mod\": \"([+,-][0-9])\",/\1/'
+cat ms2.json | sed 's/"Saving Throws": "\([A-z]\{3\} [+-][0-9]\+,\?\s\?\)\+"/TESTTESTTEST/'
