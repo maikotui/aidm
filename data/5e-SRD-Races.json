@@ -36,7 +36,7 @@
 		"starting_proficiency_options": {
 			"choose": 1,
 			"type": "proficiencies",
-			"from": [
+			"source": [
 				{
 					"url": "/api/proficiencies/71",
 					"name": "Smith's tools"
@@ -250,7 +250,7 @@
 		"language_options": {
 			"choose": 1,
 			"type": "languages",
-			"from": [
+			"source": [
 				{
 					"url": "/api/languages/2",
 					"name": "Dwarvish"
@@ -373,7 +373,7 @@
 		"trait_options":
 			{
 				"choose": 1,
-				"from": [
+				"source": [
 					{
 						"name": "Breath Weapon (Black)",
 						"url": "/api/traits/17"
@@ -483,7 +483,7 @@
 		"ability_bonus_options": {
 			"choose": 2,
 			"type": "ability_bonuses",
-			"from": [
+			"source": [
 				{
 					"name": "STR",
 					"url": "/api/ability-scores/1",
@@ -530,7 +530,7 @@
 		"language_options": {
 			"choose": 1,
 			"type": "languages",
-			"from": [
+			"source": [
 				{
 					"name":"Dwarvish",
 					"url":"/api/languages/2"

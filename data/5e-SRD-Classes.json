@@ -7,7 +7,7 @@
 			{
 				"choose": 2,
 				"type": "proficiencies",
-				"from": [
+				"source": [
 					{
 						"url": "/api/proficiencies/106",
 						"name": "Skill: Animal Handling"
@@ -69,11 +69,11 @@
 		],
 		"starting_equipment": {
 			"url": "/api/startingequipment/1",
-			"class": "Barbarian"
+			"class_": "Barbarian"
 		},
 		"class_levels": {
 			"url": "/api/classes/barbarian/levels",
-			"class": "Barbarian"
+			"class_": "Barbarian"
 		},
 		"subclasses": [
 			{
@@ -94,7 +94,7 @@
 			{
 				"choose": 3,
 				"type": "proficiencies",
-				"from": [
+				"source": [
 					{
 						"url": "/api/proficiencies/105",
 						"name": "Skill: Acrobatics"
@@ -172,7 +172,7 @@
 			{
 				"choose": 3,
 				"type": "proficiencies",
-				"from": [
+				"source": [
 					{
 						"url": "/api/proficiencies/81",
 						"name": "Bagpipes"
@@ -254,11 +254,11 @@
 		],
 		"starting_equipment": {
 			"url": "/api/startingequipment/2",
-			"class": "Bard"
+			"class_": "Bard"
 		},
 		"class_levels": {
 			"url": "/api/classes/bard/levels",
-			"class": "Bard"
+			"class_": "Bard"
 		},
 		"subclasses": [
 			{
@@ -268,7 +268,7 @@
 		],
 		"spellcasting": {
 			"url": "/api/spellcasting/1",
-			"class": "Bard"
+			"class_": "Bard"
 		},
 		"url": "/api/classes/2"
 	},
@@ -280,7 +280,7 @@
 			{
 				"choose": 2,
 				"type": "proficiencies",
-				"from": [
+				"source": [
 					{
 						"url": "/api/proficiencies/110",
 						"name": "Skill: History"
@@ -334,11 +334,11 @@
 		],
 		"starting_equipment": {
 			"url": "/api/startingequipment/3",
-			"class": "Cleric"
+			"class_": "Cleric"
 		},
 		"class_levels": {
 			"url": "/api/classes/cleric/levels",
-			"class": "Cleric"
+			"class_": "Cleric"
 		},
 		"subclasses": [
 			{
@@ -348,7 +348,7 @@
 		],
 		"spellcasting": {
 			"url": "/api/spellcasting/2",
-			"class": "Cleric"
+			"class_": "Cleric"
 		},
 		"url": "/api/classes/3"
 	},
@@ -360,7 +360,7 @@
 			{
 				"choose": 2,
 				"type": "proficiencies",
-				"from": [
+				"source": [
 					{
 						"url": "/api/proficiencies/106",
 						"name": "Skill: Animal Handling"
@@ -466,11 +466,11 @@
 		],
 		"starting_equipment": {
 			"url": "/api/startingequipment/4",
-			"class": "Druid"
+			"class_": "Druid"
 		},
 		"class_levels": {
 			"url": "/api/classes/druid/levels",
-			"class": "Druid"
+			"class_": "Druid"
 		},
 		"subclasses": [
 			{
@@ -480,7 +480,7 @@
 		],
 		"spellcasting": {
 			"url": "/api/spellcasting/3",
-			"class": "Druid"
+			"class_": "Druid"
 		},
 		"url": "/api/classes/4"
 	},
@@ -492,7 +492,7 @@
 			{
 				"choose": 2,
 				"type": "proficiencies",
-				"from": [
+				"source": [
 					{
 						"url": "/api/proficiencies/105",
 						"name": "Skill: Acrobatics"
@@ -558,11 +558,11 @@
 		],
 		"starting_equipment": {
 			"url": "/api/startingequipment/5",
-			"class": "Fighter"
+			"class_": "Fighter"
 		},
 		"class_levels": {
 			"url": "/api/classes/fighter/levels",
-			"class": "Fighter"
+			"class_": "Fighter"
 		},
 		"subclasses": [
 			{
@@ -583,7 +583,7 @@
 			{
 				"choose": 1,
 				"type": "proficiencies",
-				"from": [
+				"source": [
 					{
 						"url": "/api/proficiencies/58",
 						"name": "Alchemist's supplies"
@@ -665,7 +665,7 @@
 			{
 				"choose": 1,
 				"type": "proficiencies",
-				"from": [
+				"source": [
 					{
 						"url": "/api/proficiencies/81",
 						"name": "Bagpipes"
@@ -711,7 +711,7 @@
 			{
 				"choose": 2,
 				"type": "proficiencies",
-				"from": [
+				"source": [
 					{
 						"url": "/api/proficiencies/105",
 						"name": "Skill: Acrobatics"
@@ -761,11 +761,11 @@
 		],
 		"starting_equipment": {
 			"url": "/api/startingequipment/6",
-			"class": "Monk"
+			"class_": "Monk"
 		},
 		"class_levels": {
 			"url": "/api/classes/monk/levels",
-			"class": "Monk"
+			"class_": "Monk"
 		},
 		"subclasses": [
 			{
@@ -786,7 +786,7 @@
 			{
 				"choose": 2,
 				"type": "proficiencies",
-				"from": [
+				"source": [
 					{
 						"url": "/api/proficiencies/108",
 						"name": "Skill: Athletics"
@@ -844,11 +844,11 @@
 		],
 		"starting_equipment": {
 			"url": "/api/startingequipment/7",
-			"class": "Paladin"
+			"class_": "Paladin"
 		},
 		"class_levels": {
 			"url": "/api/classes/paladin/levels",
-			"class": "Paladin"
+			"class_": "Paladin"
 		},
 		"subclasses": [
 			{
@@ -858,7 +858,7 @@
 		],
 		"spellcasting": {
 			"url": "/api/spellcasting/4",
-			"class": "Paladin"
+			"class_": "Paladin"
 		},
 		"url": "/api/classes/7"
 	},
@@ -870,7 +870,7 @@
 			{
 				"choose": 3,
 				"type": "proficiencies",
-				"from": [
+				"source": [
 					{
 						"url": "/api/proficiencies/106",
 						"name": "Skill: Animal Handling"
@@ -940,11 +940,11 @@
 		],
 		"starting_equipment": {
 			"url": "/api/startingequipment/8",
-			"class": "Ranger"
+			"class_": "Ranger"
 		},
 		"class_levels": {
 			"url": "/api/classes/ranger/levels",
-			"class": "Ranger"
+			"class_": "Ranger"
 		},
 		"subclasses": [
 			{
@@ -954,7 +954,7 @@
 		],
 		"spellcasting": {
 			"url": "/api/spellcasting/5",
-			"class": "Ranger"
+			"class_": "Ranger"
 		},
 		"url": "/api/classes/8"
 	},
@@ -966,7 +966,7 @@
 			{
 				"choose": 4,
 				"type": "proficiencies",
-				"from": [
+				"source": [
 					{
 						"url": "/api/proficiencies/105",
 						"name": "Skill: Acrobatics"
@@ -1056,11 +1056,11 @@
 		],
 		"starting_equipment": {
 			"url": "/api/startingequipment/9",
-			"class": "Rogue"
+			"class_": "Rogue"
 		},
 		"class_levels": {
 			"url": "/api/classes/rogue/levels",
-			"class": "Rogue"
+			"class_": "Rogue"
 		},
 		"subclasses": [
 			{
@@ -1081,7 +1081,7 @@
 			{
 				"choose": 2,
 				"type": "proficiencies",
-				"from": [
+				"source": [
 					{
 						"url": "/api/proficiencies/107",
 						"name": "Skill: Arcana"
@@ -1139,11 +1139,11 @@
 		],
 		"starting_equipment": {
 			"url": "/api/startingequipment/10",
-			"class": "Sorcerer"
+			"class_": "Sorcerer"
 		},
 		"class_levels": {
 			"url": "/api/classes/sorcerer/levels",
-			"class": "Sorcerer"
+			"class_": "Sorcerer"
 		},
 		"subclasses": [
 			{
@@ -1153,7 +1153,7 @@
 		],
 		"spellcasting": {
 			"url": "/api/spellcasting/6",
-			"class": "Sorcerer"
+			"class_": "Sorcerer"
 		},
 		"url": "/api/classes/10"
 	},
@@ -1165,7 +1165,7 @@
 			{
 				"choose": 2,
 				"type": "proficiencies",
-				"from": [
+				"source": [
 					{
 						"url": "/api/proficiencies/107",
 						"name": "Skill: Arcana"
@@ -1219,11 +1219,11 @@
 		],
 		"starting_equipment": {
 			"url": "/api/startingequipment/11",
-			"class": "Warlock"
+			"class_": "Warlock"
 		},
 		"class_levels": {
 			"url": "/api/classes/warlock/levels",
-			"class": "Warlock"
+			"class_": "Warlock"
 		},
 		"subclasses": [
 			{
@@ -1233,7 +1233,7 @@
 		],
 		"spellcasting": {
 			"url": "/api/spellcasting/7",
-			"class": "Warlock"
+			"class_": "Warlock"
 		},
 		"url": "/api/classes/11"
 	},
@@ -1245,7 +1245,7 @@
 			{
 				"choose": 2,
 				"type": "proficiencies",
-				"from": [
+				"source": [
 					{
 						"url": "/api/proficiencies/107",
 						"name": "Skill: Arcana"
@@ -1303,11 +1303,11 @@
 		],
 		"starting_equipment": {
 			"url": "/api/startingequipment/12",
-			"class": "Wizard"
+			"class_": "Wizard"
 		},
 		"class_levels": {
 			"url": "/api/classes/wizard/levels",
-			"class": "Wizard"
+			"class_": "Wizard"
 		},
 		"subclasses": [
 			{
@@ -1317,7 +1317,7 @@
 		],
 		"spellcasting": {
 			"url": "/api/spellcasting/8",
-			"class": "Wizard"
+			"class_": "Wizard"
 		},
 		"url": "/api/classes/12"
 	}

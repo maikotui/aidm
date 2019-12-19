@@ -1,7 +1,7 @@
 [
   {
     "index": 1,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -21,7 +21,7 @@
   },
   {
     "index": 2,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -35,7 +35,7 @@
   },
   {
     "index": 3,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -49,7 +49,7 @@
   },
   {
     "index": 4,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -63,7 +63,7 @@
   },
   {
     "index": 5,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -77,7 +77,7 @@
   },
   {
     "index": 6,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -94,7 +94,7 @@
   },
   {
     "index": 7,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -108,7 +108,7 @@
   },
   {
     "index": 8,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -122,7 +122,7 @@
   },
   {
     "index": 9,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -136,7 +136,7 @@
   },
   {
     "index": 10,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -153,7 +153,7 @@
   },
   {
     "index": 11,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -168,7 +168,7 @@
   },
   {
     "index": 12,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -182,7 +182,7 @@
   },
   {
     "index": 13,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -196,7 +196,7 @@
   },
   {
     "index": 14,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -214,7 +214,7 @@
   },
   {
     "index": 15,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -229,7 +229,7 @@
   },
   {
     "index": 16,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -243,7 +243,7 @@
   },
   {
     "index": 17,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -257,7 +257,7 @@
   },
   {
     "index": 18,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -274,7 +274,7 @@
   },
   {
     "index": 19,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -288,7 +288,7 @@
   },
   {
     "index": 20,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -302,7 +302,7 @@
   },
   {
     "index": 21,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -316,7 +316,7 @@
   },
   {
     "index": 22,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -330,7 +330,7 @@
   },
   {
     "index": 23,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -344,7 +344,7 @@
   },
   {
     "index": 24,
-    "class": {
+    "class_": {
       "url": "/api/classes/1",
       "name": "Barbarian"
     },
@@ -358,7 +358,7 @@
   },
   {
     "index": 25,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -373,7 +373,7 @@
   },
   {
     "index": 26,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -389,7 +389,7 @@
   },
   {
     "index": 27,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -403,7 +403,7 @@
   },
   {
     "index": 28,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -418,7 +418,7 @@
   },
   {
     "index": 29,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -432,7 +432,7 @@
   },
   {
     "index": 30,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -449,7 +449,7 @@
   },
   {
     "index": 31,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -468,7 +468,7 @@
   },
   {
     "index": 32,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -481,7 +481,7 @@
     "choice": {
       "choose": 2,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/278",
           "name": "Expertise: Acrobatics"
@@ -560,7 +560,7 @@
   },
   {
     "index": 33,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -580,7 +580,7 @@
   },
   {
     "index": 34,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -600,7 +600,7 @@
   },
   {
     "index": 35,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -620,7 +620,7 @@
   },
   {
     "index": 36,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -640,7 +640,7 @@
   },
   {
     "index": 37,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -660,7 +660,7 @@
   },
   {
     "index": 38,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -680,7 +680,7 @@
   },
   {
     "index": 39,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -700,7 +700,7 @@
   },
   {
     "index": 40,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -720,7 +720,7 @@
   },
   {
     "index": 41,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -740,7 +740,7 @@
   },
   {
     "index": 42,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -760,7 +760,7 @@
   },
   {
     "index": 43,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -780,7 +780,7 @@
   },
   {
     "index": 44,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -800,7 +800,7 @@
   },
   {
     "index": 45,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -820,7 +820,7 @@
   },
   {
     "index": 46,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -840,7 +840,7 @@
   },
   {
     "index": 47,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -860,7 +860,7 @@
   },
   {
     "index": 48,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -880,7 +880,7 @@
   },
   {
     "index": 49,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -900,7 +900,7 @@
   },
   {
     "index": 50,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -920,7 +920,7 @@
   },
   {
     "index": 51,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -934,7 +934,7 @@
   },
   {
     "index": 52,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -950,7 +950,7 @@
   },
   {
     "index": 53,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -964,7 +964,7 @@
   },
   {
     "index": 54,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -978,7 +978,7 @@
   },
   {
     "index": 55,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -995,7 +995,7 @@
   },
   {
     "index": 56,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -1009,7 +1009,7 @@
   },
   {
     "index": 57,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -1024,7 +1024,7 @@
   },
   {
     "index": 58,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -1040,7 +1040,7 @@
   },
   {
     "index": 59,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -1053,7 +1053,7 @@
     "choice": {
       "choose": 2,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/278",
           "name": "Expertise: Acrobatics"
@@ -1132,7 +1132,7 @@
   },
   {
     "index": 60,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -1148,7 +1148,7 @@
   },
   {
     "index": 61,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -1162,7 +1162,7 @@
   },
   {
     "index": 62,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -1177,7 +1177,7 @@
   },
   {
     "index": 63,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -1193,7 +1193,7 @@
   },
   {
     "index": 64,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -1210,7 +1210,7 @@
   },
   {
     "index": 65,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -1226,7 +1226,7 @@
   },
   {
     "index": 66,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -1240,7 +1240,7 @@
   },
   {
     "index": 67,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -1255,7 +1255,7 @@
   },
   {
     "index": 68,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -1271,7 +1271,7 @@
   },
   {
     "index": 69,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -1285,7 +1285,7 @@
   },
   {
     "index": 70,
-    "class": {
+    "class_": {
       "url": "/api/classes/2",
       "name": "Bard"
     },
@@ -1299,7 +1299,7 @@
   },
   {
     "index": 71,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1312,7 +1312,7 @@
   },
   {
     "index": 72,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1327,7 +1327,7 @@
   },
   {
     "index": 73,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1342,7 +1342,7 @@
   },
   {
     "index": 74,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1359,7 +1359,7 @@
   },
   {
     "index": 75,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1376,7 +1376,7 @@
   },
   {
     "index": 76,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1393,7 +1393,7 @@
   },
   {
     "index": 77,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1408,7 +1408,7 @@
   },
   {
     "index": 78,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1427,7 +1427,7 @@
   },
   {
     "index": 79,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1442,7 +1442,7 @@
   },
   {
     "index": 80,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1456,7 +1456,7 @@
   },
   {
     "index": 81,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1471,7 +1471,7 @@
   },
   {
     "index": 82,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1485,7 +1485,7 @@
   },
   {
     "index": 83,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1499,7 +1499,7 @@
   },
   {
     "index": 84,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1516,7 +1516,7 @@
   },
   {
     "index": 85,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1531,7 +1531,7 @@
   },
   {
     "index": 86,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1545,7 +1545,7 @@
   },
   {
     "index": 87,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1559,7 +1559,7 @@
   },
   {
     "index": 88,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1576,7 +1576,7 @@
   },
   {
     "index": 89,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1591,7 +1591,7 @@
   },
   {
     "index": 90,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1608,7 +1608,7 @@
   },
   {
     "index": 91,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1622,7 +1622,7 @@
   },
   {
     "index": 92,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1636,7 +1636,7 @@
   },
   {
     "index": 93,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1650,7 +1650,7 @@
   },
   {
     "index": 94,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1664,7 +1664,7 @@
   },
   {
     "index": 95,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1678,7 +1678,7 @@
   },
   {
     "index": 96,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1692,7 +1692,7 @@
   },
   {
     "index": 97,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1706,7 +1706,7 @@
   },
   {
     "index": 98,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1720,7 +1720,7 @@
   },
   {
     "index": 99,
-    "class": {
+    "class_": {
       "url": "/api/classes/3",
       "name": "Cleric"
     },
@@ -1734,7 +1734,7 @@
   },
   {
     "index": 100,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -1749,7 +1749,7 @@
   },
   {
     "index": 101,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -1763,7 +1763,7 @@
   },
   {
     "index": 102,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -1785,7 +1785,7 @@
   },
   {
     "index": 103,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -1799,7 +1799,7 @@
   },
   {
     "index": 104,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -1815,7 +1815,7 @@
     "choice": {
       "choose": 1,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/105",
           "name": "Circle of the Land: Arctic"
@@ -1850,7 +1850,7 @@
   },
   {
     "index": 105,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -1868,7 +1868,7 @@
   },
   {
     "index": 106,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -1886,7 +1886,7 @@
   },
   {
     "index": 107,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -1904,7 +1904,7 @@
   },
   {
     "index": 108,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -1922,7 +1922,7 @@
   },
   {
     "index": 109,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -1940,7 +1940,7 @@
   },
   {
     "index": 110,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -1958,7 +1958,7 @@
   },
   {
     "index": 111,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -1976,7 +1976,7 @@
   },
   {
     "index": 112,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -1993,7 +1993,7 @@
   },
   {
     "index": 113,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -2011,7 +2011,7 @@
   },
   {
     "index": 114,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -2030,7 +2030,7 @@
   },
   {
     "index": 115,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -2052,7 +2052,7 @@
   },
   {
     "index": 116,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -2066,7 +2066,7 @@
   },
   {
     "index": 117,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -2085,7 +2085,7 @@
   },
   {
     "index": 118,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -2103,7 +2103,7 @@
   },
   {
     "index": 119,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -2122,7 +2122,7 @@
   },
   {
     "index": 120,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -2144,7 +2144,7 @@
   },
   {
     "index": 121,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -2158,7 +2158,7 @@
   },
   {
     "index": 122,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -2177,7 +2177,7 @@
   },
   {
     "index": 123,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -2194,7 +2194,7 @@
   },
   {
     "index": 124,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -2208,7 +2208,7 @@
   },
   {
     "index": 125,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -2225,7 +2225,7 @@
   },
   {
     "index": 126,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -2239,7 +2239,7 @@
   },
   {
     "index": 127,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -2253,7 +2253,7 @@
   },
   {
     "index": 128,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -2267,7 +2267,7 @@
   },
   {
     "index": 129,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -2281,7 +2281,7 @@
   },
   {
     "index": 130,
-    "class": {
+    "class_": {
       "url": "/api/classes/4",
       "name": "Druid"
     },
@@ -2296,7 +2296,7 @@
   },
   {
     "index": 131,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2309,7 +2309,7 @@
     "choice": {
       "choose": 1,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/132",
           "name": "Fighting Style: Archery"
@@ -2340,7 +2340,7 @@
   },
   {
     "index": 132,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2355,7 +2355,7 @@
   },
   {
     "index": 133,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2368,7 +2368,7 @@
   },
   {
     "index": 134,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2383,7 +2383,7 @@
   },
   {
     "index": 135,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2398,7 +2398,7 @@
   },
   {
     "index": 136,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2413,7 +2413,7 @@
   },
   {
     "index": 137,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2428,7 +2428,7 @@
   },
   {
     "index": 138,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2442,7 +2442,7 @@
   },
   {
     "index": 139,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2457,7 +2457,7 @@
   },
   {
     "index": 140,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2471,7 +2471,7 @@
   },
   {
     "index": 141,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2488,7 +2488,7 @@
   },
   {
     "index": 142,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2502,7 +2502,7 @@
   },
   {
     "index": 143,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2516,7 +2516,7 @@
   },
   {
     "index": 144,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2530,7 +2530,7 @@
   },
   {
     "index": 145,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2547,7 +2547,7 @@
   },
   {
     "index": 146,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2561,7 +2561,7 @@
   },
   {
     "index": 147,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2575,7 +2575,7 @@
   },
   {
     "index": 148,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2591,7 +2591,7 @@
     "choice": {
       "choose": 1,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/132",
           "name": "Fighting Style: Archery"
@@ -2622,7 +2622,7 @@
   },
   {
     "index": 149,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2636,7 +2636,7 @@
   },
   {
     "index": 150,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2650,7 +2650,7 @@
   },
   {
     "index": 151,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2664,7 +2664,7 @@
   },
   {
     "index": 152,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2678,7 +2678,7 @@
   },
   {
     "index": 153,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2695,7 +2695,7 @@
   },
   {
     "index": 154,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2709,7 +2709,7 @@
   },
   {
     "index": 155,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2724,7 +2724,7 @@
   },
   {
     "index": 156,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2738,7 +2738,7 @@
   },
   {
     "index": 157,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2755,7 +2755,7 @@
   },
   {
     "index": 158,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2769,7 +2769,7 @@
   },
   {
     "index": 159,
-    "class": {
+    "class_": {
       "url": "/api/classes/5",
       "name": "Fighter"
     },
@@ -2783,7 +2783,7 @@
   },
   {
     "index": 160,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -2797,7 +2797,7 @@
   },
   {
     "index": 161,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -2816,7 +2816,7 @@
   },
   {
     "index": 162,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -2834,7 +2834,7 @@
   },
   {
     "index": 163,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -2848,7 +2848,7 @@
   },
   {
     "index": 164,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -2862,7 +2862,7 @@
   },
   {
     "index": 165,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -2876,7 +2876,7 @@
   },
   {
     "index": 166,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -2891,7 +2891,7 @@
   },
   {
     "index": 167,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -2905,7 +2905,7 @@
   },
   {
     "index": 168,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -2920,7 +2920,7 @@
   },
   {
     "index": 169,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -2940,7 +2940,7 @@
   },
   {
     "index": 170,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -2954,7 +2954,7 @@
   },
   {
     "index": 171,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -2968,7 +2968,7 @@
   },
   {
     "index": 172,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -2982,7 +2982,7 @@
   },
   {
     "index": 173,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -2996,7 +2996,7 @@
   },
   {
     "index": 174,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -3010,7 +3010,7 @@
   },
   {
     "index": 175,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -3027,7 +3027,7 @@
   },
   {
     "index": 176,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -3041,7 +3041,7 @@
   },
   {
     "index": 177,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -3055,7 +3055,7 @@
   },
   {
     "index": 178,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -3069,7 +3069,7 @@
   },
   {
     "index": 179,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -3084,7 +3084,7 @@
   },
   {
     "index": 180,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -3098,7 +3098,7 @@
   },
   {
     "index": 181,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -3115,7 +3115,7 @@
   },
   {
     "index": 182,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -3129,7 +3129,7 @@
   },
   {
     "index": 183,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -3143,7 +3143,7 @@
   },
   {
     "index": 184,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -3158,7 +3158,7 @@
   },
   {
     "index": 185,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -3172,7 +3172,7 @@
   },
   {
     "index": 186,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -3186,7 +3186,7 @@
   },
   {
     "index": 187,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -3204,7 +3204,7 @@
   },
   {
     "index": 188,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -3219,7 +3219,7 @@
   },
   {
     "index": 189,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -3233,7 +3233,7 @@
   },
   {
     "index": 190,
-    "class": {
+    "class_": {
       "url": "/api/classes/6",
       "name": "Monk"
     },
@@ -3247,7 +3247,7 @@
   },
   {
     "index": 191,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3262,7 +3262,7 @@
   },
   {
     "index": 192,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3279,7 +3279,7 @@
   },
   {
     "index": 193,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3292,7 +3292,7 @@
     "choice": {
       "choose": 1,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/194",
           "name": "Fighting Style: Defense"
@@ -3315,7 +3315,7 @@
   },
   {
     "index": 194,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3328,7 +3328,7 @@
   },
   {
     "index": 195,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3343,7 +3343,7 @@
   },
   {
     "index": 196,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3358,7 +3358,7 @@
   },
   {
     "index": 197,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3373,7 +3373,7 @@
   },
   {
     "index": 198,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3388,7 +3388,7 @@
   },
   {
     "index": 199,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3402,7 +3402,7 @@
   },
   {
     "index": 200,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3416,7 +3416,7 @@
   },
   {
     "index": 201,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3431,7 +3431,7 @@
   },
   {
     "index": 202,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3446,7 +3446,7 @@
   },
   {
     "index": 203,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3462,7 +3462,7 @@
   },
   {
     "index": 204,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3480,7 +3480,7 @@
   },
   {
     "index": 205,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3498,7 +3498,7 @@
   },
   {
     "index": 206,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3512,7 +3512,7 @@
   },
   {
     "index": 207,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3526,7 +3526,7 @@
   },
   {
     "index": 208,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3541,7 +3541,7 @@
   },
   {
     "index": 209,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3559,7 +3559,7 @@
   },
   {
     "index": 210,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3573,7 +3573,7 @@
   },
   {
     "index": 211,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3588,7 +3588,7 @@
   },
   {
     "index": 212,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3602,7 +3602,7 @@
   },
   {
     "index": 213,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3616,7 +3616,7 @@
   },
   {
     "index": 214,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3631,7 +3631,7 @@
   },
   {
     "index": 215,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3648,7 +3648,7 @@
   },
   {
     "index": 216,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3662,7 +3662,7 @@
   },
   {
     "index": 217,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3674,7 +3674,7 @@
   },
   {
     "index": 218,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3688,7 +3688,7 @@
   },
   {
     "index": 219,
-    "class": {
+    "class_": {
       "url": "/api/classes/7",
       "name": "Paladin"
     },
@@ -3707,7 +3707,7 @@
   },
   {
     "index": 220,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -3725,7 +3725,7 @@
   },
   {
     "index": 221,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -3747,7 +3747,7 @@
   },
   {
     "index": 222,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -3760,7 +3760,7 @@
     "choice": {
       "choose": 1,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/223",
           "name": "Fighting Style: Archery"
@@ -3783,7 +3783,7 @@
   },
   {
     "index": 223,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -3798,7 +3798,7 @@
   },
   {
     "index": 224,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -3811,7 +3811,7 @@
   },
   {
     "index": 225,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -3826,7 +3826,7 @@
   },
   {
     "index": 226,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -3841,7 +3841,7 @@
   },
   {
     "index": 227,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -3856,7 +3856,7 @@
   },
   {
     "index": 228,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -3870,7 +3870,7 @@
   },
   {
     "index": 229,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -3889,7 +3889,7 @@
     "choice": {
       "choose": 1,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/230",
           "name": "Hunter's Prey: Colossus Slayer"
@@ -3908,7 +3908,7 @@
   },
   {
     "index": 230,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -3926,7 +3926,7 @@
   },
   {
     "index": 231,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -3944,7 +3944,7 @@
   },
   {
     "index": 232,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -3962,7 +3962,7 @@
   },
   {
     "index": 233,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -3976,7 +3976,7 @@
   },
   {
     "index": 234,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -3990,7 +3990,7 @@
   },
   {
     "index": 235,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4004,7 +4004,7 @@
   },
   {
     "index": 236,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4022,7 +4022,7 @@
   },
   {
     "index": 237,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4044,7 +4044,7 @@
   },
   {
     "index": 238,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4063,7 +4063,7 @@
     "choice": {
       "choose": 1,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/239",
           "name": "Defensive Tactics: Escape the Horde"
@@ -4082,7 +4082,7 @@
   },
   {
     "index": 239,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4098,7 +4098,7 @@
   },
   {
     "index": 240,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4116,7 +4116,7 @@
   },
   {
     "index": 241,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4132,7 +4132,7 @@
   },
   {
     "index": 242,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4146,7 +4146,7 @@
   },
   {
     "index": 243,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4161,7 +4161,7 @@
   },
   {
     "index": 244,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4183,7 +4183,7 @@
   },
   {
     "index": 245,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4198,7 +4198,7 @@
   },
   {
     "index": 246,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4216,7 +4216,7 @@
     "choice": {
       "choose": 1,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/247",
           "name": "Multiattack: Volley"
@@ -4231,7 +4231,7 @@
   },
   {
     "index": 247,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4249,7 +4249,7 @@
   },
   {
     "index": 248,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4267,7 +4267,7 @@
   },
   {
     "index": 249,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4281,7 +4281,7 @@
   },
   {
     "index": 250,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4299,7 +4299,7 @@
   },
   {
     "index": 251,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4313,7 +4313,7 @@
   },
   {
     "index": 252,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4332,7 +4332,7 @@
     "choice": {
       "choose": 1,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/253",
           "name": "Superior Hunter's Defense: Evasion"
@@ -4351,7 +4351,7 @@
   },
   {
     "index": 253,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4369,7 +4369,7 @@
   },
   {
     "index": 254,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4387,7 +4387,7 @@
   },
   {
     "index": 255,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4405,7 +4405,7 @@
   },
   {
     "index": 256,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4419,7 +4419,7 @@
   },
   {
     "index": 257,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4434,7 +4434,7 @@
   },
   {
     "index": 258,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4448,7 +4448,7 @@
   },
   {
     "index": 259,
-    "class": {
+    "class_": {
       "url": "/api/classes/8",
       "name": "Ranger"
     },
@@ -4462,7 +4462,7 @@
   },
   {
     "index": 260,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4476,7 +4476,7 @@
     "choice": {
       "choose": 2,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/278",
           "name": "Expertise: Acrobatics"
@@ -4555,7 +4555,7 @@
   },
   {
     "index": 261,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4575,7 +4575,7 @@
   },
   {
     "index": 262,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4595,7 +4595,7 @@
   },
   {
     "index": 263,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4615,7 +4615,7 @@
   },
   {
     "index": 264,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4635,7 +4635,7 @@
   },
   {
     "index": 265,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4655,7 +4655,7 @@
   },
   {
     "index": 266,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4675,7 +4675,7 @@
   },
   {
     "index": 267,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4695,7 +4695,7 @@
   },
   {
     "index": 268,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4715,7 +4715,7 @@
   },
   {
     "index": 269,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4735,7 +4735,7 @@
   },
   {
     "index": 270,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4755,7 +4755,7 @@
   },
   {
     "index": 271,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4775,7 +4775,7 @@
   },
   {
     "index": 272,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4795,7 +4795,7 @@
   },
   {
     "index": 273,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4815,7 +4815,7 @@
   },
   {
     "index": 274,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4835,7 +4835,7 @@
   },
   {
     "index": 275,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4855,7 +4855,7 @@
   },
   {
     "index": 276,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4875,7 +4875,7 @@
   },
   {
     "index": 277,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4895,7 +4895,7 @@
   },
   {
     "index": 278,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4915,7 +4915,7 @@
   },
   {
     "index": 279,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4935,7 +4935,7 @@
   },
   {
     "index": 280,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4951,7 +4951,7 @@
   },
   {
     "index": 281,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4966,7 +4966,7 @@
   },
   {
     "index": 282,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4980,7 +4980,7 @@
   },
   {
     "index": 283,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -4994,7 +4994,7 @@
   },
   {
     "index": 284,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -5011,7 +5011,7 @@
   },
   {
     "index": 285,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -5029,7 +5029,7 @@
   },
   {
     "index": 286,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -5043,7 +5043,7 @@
   },
   {
     "index": 287,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -5057,7 +5057,7 @@
   },
   {
     "index": 288,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -5071,7 +5071,7 @@
     "choice": {
       "choose": 2,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/278",
           "name": "Expertise: Acrobatics"
@@ -5150,7 +5150,7 @@
   },
   {
     "index": 289,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -5164,7 +5164,7 @@
   },
   {
     "index": 290,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -5178,7 +5178,7 @@
   },
   {
     "index": 291,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -5195,7 +5195,7 @@
   },
   {
     "index": 292,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -5209,7 +5209,7 @@
   },
   {
     "index": 293,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -5223,7 +5223,7 @@
   },
   {
     "index": 294,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -5237,7 +5237,7 @@
   },
   {
     "index": 295,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -5254,7 +5254,7 @@
   },
   {
     "index": 296,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -5268,7 +5268,7 @@
   },
   {
     "index": 297,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -5282,7 +5282,7 @@
   },
   {
     "index": 298,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -5296,7 +5296,7 @@
   },
   {
     "index": 299,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -5313,7 +5313,7 @@
   },
   {
     "index": 300,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -5327,7 +5327,7 @@
   },
   {
     "index": 301,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -5341,7 +5341,7 @@
   },
   {
     "index": 302,
-    "class": {
+    "class_": {
       "url": "/api/classes/9",
       "name": "Rogue"
     },
@@ -5356,7 +5356,7 @@
   },
   {
     "index": 303,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5371,7 +5371,7 @@
   },
   {
     "index": 304,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5386,7 +5386,7 @@
   },
   {
     "index": 305,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5403,7 +5403,7 @@
     "choice": {
       "choose": 2,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/306",
           "name": "Dragon Ancestor: Black - Acid Damage"
@@ -5450,7 +5450,7 @@
   },
   {
     "index": 306,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5469,7 +5469,7 @@
   },
   {
     "index": 307,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5488,7 +5488,7 @@
   },
   {
     "index": 308,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5507,7 +5507,7 @@
   },
   {
     "index": 309,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5526,7 +5526,7 @@
   },
   {
     "index": 310,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5545,7 +5545,7 @@
   },
   {
     "index": 311,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5564,7 +5564,7 @@
   },
   {
     "index": 312,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5583,7 +5583,7 @@
   },
   {
     "index": 313,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5602,7 +5602,7 @@
   },
   {
     "index": 314,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5621,7 +5621,7 @@
   },
   {
     "index": 315,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5640,7 +5640,7 @@
   },
   {
     "index": 316,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5658,7 +5658,7 @@
   },
   {
     "index": 317,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5674,7 +5674,7 @@
   },
   {
     "index": 318,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5689,7 +5689,7 @@
   },
   {
     "index": 319,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5703,7 +5703,7 @@
   },
   {
     "index": 320,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5717,7 +5717,7 @@
     "choice": {
       "choose": 2,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/321",
           "name": "Metamagic: Careful Spell"
@@ -5756,7 +5756,7 @@
   },
   {
     "index": 321,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5771,7 +5771,7 @@
   },
   {
     "index": 322,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5787,7 +5787,7 @@
   },
   {
     "index": 323,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5803,7 +5803,7 @@
   },
   {
     "index": 324,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5818,7 +5818,7 @@
   },
   {
     "index": 325,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5833,7 +5833,7 @@
   },
   {
     "index": 326,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5848,7 +5848,7 @@
   },
   {
     "index": 327,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5863,7 +5863,7 @@
   },
   {
     "index": 328,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5878,7 +5878,7 @@
   },
   {
     "index": 329,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5892,7 +5892,7 @@
   },
   {
     "index": 330,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5910,7 +5910,7 @@
   },
   {
     "index": 331,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5924,7 +5924,7 @@
   },
   {
     "index": 332,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5938,7 +5938,7 @@
     "choice": {
       "choose": 1,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/327",
           "name": "Metamagic: Careful Spell"
@@ -5977,7 +5977,7 @@
   },
   {
     "index": 333,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -5991,7 +5991,7 @@
   },
   {
     "index": 334,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -6009,7 +6009,7 @@
   },
   {
     "index": 335,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -6023,7 +6023,7 @@
   },
   {
     "index": 336,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -6037,7 +6037,7 @@
     "choice": {
       "choose": 1,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/327",
           "name": "Metamagic: Careful Spell"
@@ -6076,7 +6076,7 @@
   },
   {
     "index": 337,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -6093,7 +6093,7 @@
   },
   {
     "index": 338,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -6107,7 +6107,7 @@
   },
   {
     "index": 339,
-    "class": {
+    "class_": {
       "url": "/api/classes/10",
       "name": "Sorcerer"
     },
@@ -6121,7 +6121,7 @@
   },
   {
     "index": 340,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6135,7 +6135,7 @@
   },
   {
     "index": 341,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6152,7 +6152,7 @@
   },
   {
     "index": 342,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6167,7 +6167,7 @@
   },
   {
     "index": 343,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6182,7 +6182,7 @@
     "choice": {
       "choose": 2,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/344",
           "name": "Eldritch Invocation: Agonizing Blast"
@@ -6253,7 +6253,7 @@
   },
   {
     "index": 344,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6274,7 +6274,7 @@
   },
   {
     "index": 345,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6290,7 +6290,7 @@
   },
   {
     "index": 346,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6306,7 +6306,7 @@
   },
   {
     "index": 347,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6320,7 +6320,7 @@
   },
   {
     "index": 348,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6342,7 +6342,7 @@
   },
   {
     "index": 349,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6358,7 +6358,7 @@
   },
   {
     "index": 350,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6374,7 +6374,7 @@
   },
   {
     "index": 351,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6393,7 +6393,7 @@
   },
   {
     "index": 352,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6407,7 +6407,7 @@
   },
   {
     "index": 353,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6423,7 +6423,7 @@
   },
   {
     "index": 354,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6439,7 +6439,7 @@
   },
   {
     "index": 355,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6455,7 +6455,7 @@
   },
   {
     "index": 356,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6471,7 +6471,7 @@
   },
   {
     "index": 357,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6492,7 +6492,7 @@
   },
   {
     "index": 358,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6508,7 +6508,7 @@
   },
   {
     "index": 359,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6530,7 +6530,7 @@
   },
   {
     "index": 360,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6551,7 +6551,7 @@
   },
   {
     "index": 361,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6572,7 +6572,7 @@
   },
   {
     "index": 362,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6593,7 +6593,7 @@
   },
   {
     "index": 363,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6618,7 +6618,7 @@
   },
   {
     "index": 364,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6639,7 +6639,7 @@
   },
   {
     "index": 365,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6660,7 +6660,7 @@
   },
   {
     "index": 366,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6681,7 +6681,7 @@
   },
   {
     "index": 367,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6702,7 +6702,7 @@
   },
   {
     "index": 368,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6723,7 +6723,7 @@
   },
   {
     "index": 369,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6744,7 +6744,7 @@
   },
   {
     "index": 370,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6765,7 +6765,7 @@
   },
   {
     "index": 371,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6790,7 +6790,7 @@
   },
   {
     "index": 372,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6815,7 +6815,7 @@
   },
   {
     "index": 373,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6836,7 +6836,7 @@
   },
   {
     "index": 374,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6857,7 +6857,7 @@
   },
   {
     "index": 375,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6878,7 +6878,7 @@
   },
   {
     "index": 376,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6891,7 +6891,7 @@
     "choice": {
       "choose": 1,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/377",
           "name": "Pact of the Chain"
@@ -6910,7 +6910,7 @@
   },
   {
     "index": 377,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6928,7 +6928,7 @@
   },
   {
     "index": 378,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6946,7 +6946,7 @@
   },
   {
     "index": 379,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6963,7 +6963,7 @@
   },
   {
     "index": 380,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6977,7 +6977,7 @@
   },
   {
     "index": 381,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -6992,7 +6992,7 @@
     "choice": {
       "choose": 1,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/344",
           "name": "Eldritch Invocation: Agonizing Blast"
@@ -7063,7 +7063,7 @@
   },
   {
     "index": 382,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -7081,7 +7081,7 @@
   },
   {
     "index": 383,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -7096,7 +7096,7 @@
     "choice": {
       "choose": 1,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/344",
           "name": "Eldritch Invocation: Agonizing Blast"
@@ -7167,7 +7167,7 @@
   },
   {
     "index": 384,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -7181,7 +7181,7 @@
   },
   {
     "index": 385,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -7196,7 +7196,7 @@
     "choice": {
       "choose": 1,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/344",
           "name": "Eldritch Invocation: Agonizing Blast"
@@ -7267,7 +7267,7 @@
   },
   {
     "index": 386,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -7284,7 +7284,7 @@
   },
   {
     "index": 387,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -7300,7 +7300,7 @@
   },
   {
     "index": 388,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -7314,7 +7314,7 @@
   },
   {
     "index": 389,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -7329,7 +7329,7 @@
     "choice": {
       "choose": 1,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/344",
           "name": "Eldritch Invocation: Agonizing Blast"
@@ -7400,7 +7400,7 @@
   },
   {
     "index": 390,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -7416,7 +7416,7 @@
   },
   {
     "index": 391,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -7435,7 +7435,7 @@
   },
   {
     "index": 392,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -7451,7 +7451,7 @@
   },
   {
     "index": 393,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -7466,7 +7466,7 @@
     "choice": {
       "choose": 1,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/344",
           "name": "Eldritch Invocation: Agonizing Blast"
@@ -7537,7 +7537,7 @@
   },
   {
     "index": 394,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -7551,7 +7551,7 @@
   },
   {
     "index": 395,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -7567,7 +7567,7 @@
   },
   {
     "index": 396,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -7582,7 +7582,7 @@
     "choice": {
       "choose": 1,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/344",
           "name": "Eldritch Invocation: Agonizing Blast"
@@ -7653,7 +7653,7 @@
   },
   {
     "index": 397,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -7667,7 +7667,7 @@
   },
   {
     "index": 398,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -7682,7 +7682,7 @@
   },
   {
     "index": 399,
-    "class": {
+    "class_": {
       "url": "/api/classes/11",
       "name": "Warlock"
     },
@@ -7697,7 +7697,7 @@
     "choice": {
       "choose": 1,
       "type": "feature",
-      "from": [
+      "source": [
         {
           "url": "/api/features/344",
           "name": "Eldritch Invocation: Agonizing Blast"
@@ -7768,7 +7768,7 @@
   },
   {
     "index": 400,
-    "class": {
+    "class_": {
       "url": "/api/classes/12",
       "name": "Wizard"
     },
@@ -7783,7 +7783,7 @@
   },
   {
     "index": 401,
-    "class": {
+    "class_": {
       "url": "/api/classes/12",
       "name": "Wizard"
     },
@@ -7798,7 +7798,7 @@
   },
   {
     "index": 402,
-    "class": {
+    "class_": {
       "url": "/api/classes/12",
       "name": "Wizard"
     },
@@ -7813,7 +7813,7 @@
   },
   {
     "index": 403,
-    "class": {
+    "class_": {
       "url": "/api/classes/12",
       "name": "Wizard"
     },
@@ -7830,7 +7830,7 @@
   },
   {
     "index": 404,
-    "class": {
+    "class_": {
       "url": "/api/classes/12",
       "name": "Wizard"
     },
@@ -7847,7 +7847,7 @@
   },
   {
     "index": 405,
-    "class": {
+    "class_": {
       "url": "/api/classes/12",
       "name": "Wizard"
     },
@@ -7861,7 +7861,7 @@
   },
   {
     "index": 406,
-    "class": {
+    "class_": {
       "url": "/api/classes/12",
       "name": "Wizard"
     },
@@ -7878,7 +7878,7 @@
   },
   {
     "index": 407,
-    "class": {
+    "class_": {
       "url": "/api/classes/12",
       "name": "Wizard"
     },
@@ -7892,7 +7892,7 @@
   },
   {
     "index": 409,
-    "class": {
+    "class_": {
       "url": "/api/classes/12",
       "name": "Wizard"
     },
@@ -7909,7 +7909,7 @@
   },
   {
     "index": 410,
-    "class": {
+    "class_": {
       "url": "/api/classes/12",
       "name": "Wizard"
     },
@@ -7923,7 +7923,7 @@
   },
   {
     "index": 412,
-    "class": {
+    "class_": {
       "url": "/api/classes/12",
       "name": "Wizard"
     },
@@ -7941,7 +7941,7 @@
   },
   {
     "index": 413,
-    "class": {
+    "class_": {
       "url": "/api/classes/12",
       "name": "Wizard"
     },
@@ -7955,7 +7955,7 @@
   },
   {
     "index": 414,
-    "class": {
+    "class_": {
       "url": "/api/classes/12",
       "name": "Wizard"
     },
@@ -7970,7 +7970,7 @@
   },
   {
     "index": 415,
-    "class": {
+    "class_": {
       "url": "/api/classes/12",
       "name": "Wizard"
     },
@@ -7984,7 +7984,7 @@
   },
   {
     "index": 416,
-    "class": {
+    "class_": {
       "url": "/api/classes/12",
       "name": "Wizard"
     },

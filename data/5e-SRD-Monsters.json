@@ -10185,7 +10185,7 @@
           {
             "choose": 1,
             "type": "damage",
-            "from": [
+            "source": [
               {
                 "damage_type": {
                   "name": "Lightning",
@@ -10710,7 +10710,7 @@
           {
             "choose": 1,
             "type": "damage",
-            "from": [
+            "source": [
               {
                 "damage_type": {
                   "name": "Slashing",
@@ -10940,7 +10940,7 @@
           {
             "choose": 1,
             "type": "damage",
-            "from": [
+            "source": [
               {
                 "damage_type": {
                   "name": "Bludgeoning",
@@ -11868,7 +11868,7 @@
           {
             "choose": 1,
             "type": "damage",
-            "from": [
+            "source": [
               {
                 "damage_type": {
                   "name": "Slashing",
@@ -15532,7 +15532,7 @@
           {
             "choose": 1,
             "type": "damage",
-            "from": [
+            "source": [
               {
                 "damage_type": {
                   "name": "Piercing",
@@ -15638,7 +15638,7 @@
           {
             "choose": 1,
             "type": "damage",
-            "from": [
+            "source": [
               {
                 "damage_type": {
                   "name": "Piercing",
@@ -16695,7 +16695,7 @@
           {
             "choose": 1,
             "type": "damage",
-            "from": [
+            "source": [
               {
                 "damage_type": {
                   "name": "Piercing",
@@ -16982,7 +16982,7 @@
           {
             "choose": 1,
             "type": "damage",
-            "from": [
+            "source": [
               {
                 "damage_type": {
                   "name": "Bludgeoning",
@@ -17604,7 +17604,7 @@
           {
             "choose": 1,
             "type": "damage",
-            "from": [
+            "source": [
               {
                 "damage_type": {
                   "name": "Slashing",
@@ -20635,7 +20635,7 @@
           {
             "choose": 1,
             "type": "damage",
-            "from": [
+            "source": [
               {
                 "damage_type": {
                   "name": "Piercing",
@@ -25085,7 +25085,7 @@
           {
             "choose": 1,
             "type": "damage",
-            "from": [
+            "source": [
               {
                 "damage_type": {
                   "name": "Psychic",
@@ -25178,7 +25178,7 @@
           {
             "choose": 1,
             "type": "damage",
-            "from": [
+            "source": [
               {
                 "damage_type": {
                   "name": "Piercing",
@@ -29031,7 +29031,7 @@
           {
             "choose": 1,
             "type": "damage",
-            "from": [
+            "source": [
               {
                 "damage_type": {
                   "name": "Piercing",
@@ -29794,7 +29794,7 @@
           {
             "choose": 1,
             "type": "damage",
-            "from": [
+            "source": [
               {
                 "damage_type": {
                   "name": "Slashing",
@@ -30972,7 +30972,7 @@
           {
             "choose": 1,
             "type": "damage",
-            "from": [
+            "source": [
               {
                 "damage_type": {
                   "name": "Piercing",
@@ -31195,7 +31195,7 @@
           {
             "choose": 1,
             "type": "damage",
-            "from": [
+            "source": [
               {
                 "damage_type": {
                   "name": "Slashing",

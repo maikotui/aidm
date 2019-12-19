@@ -309,7 +309,7 @@
         "name": "Monk"
       }
     ],
-    "2h_damage": {
+    "two_h_damage": {
       "damage_dice": "1d8",
       "damage_bonus": 0,
       "damage_type": {
@@ -397,7 +397,7 @@
       "normal": 20,
       "long": 60
     },
-    "2h_damage": {
+    "two_h_damage": {
       "damage_dice": "1d8",
       "damage_bonus": 0,
       "damage_type": {
@@ -585,7 +585,7 @@
         "name": "Versatile"
       }
     ],
-    "2h_damage": {
+    "two_h_damage": {
       "damage_dice": "1d10",
       "damage_bonus": 0,
       "damage_type": {
@@ -843,7 +843,7 @@
         "name": "Versatile"
       }
     ],
-    "2h_damage": {
+    "two_h_damage": {
       "damage_dice": "1d10",
       "damage_bonus": 0,
       "damage_type": {
@@ -1102,7 +1102,7 @@
       "normal": 20,
       "long": 60
     },
-    "2h_damage": {
+    "two_h_damage": {
       "damage_dice": "1d8",
       "damage_bonus": 0,
       "damage_type": {
@@ -1169,7 +1169,7 @@
         "name": "Versatile"
       }
     ],
-    "2h_damage": {
+    "two_h_damage": {
       "damage_dice": "1d10",
       "damage_bonus": 0,
       "damage_type": {

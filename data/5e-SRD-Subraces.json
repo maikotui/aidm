@@ -66,7 +66,7 @@
     "languages": [],
     "language_options": {
       "choose": 1,
-      "from": [
+      "source": [
         {
           "url": "/api/languages/2",
           "name": "Dwarvish"
@@ -129,7 +129,7 @@
     "racial_traits": [],
     "racial_trait_options": {
       "choose": 1,
-      "from": [
+      "source": [
         {
           "url": "/api/traits/10",
           "name": "High Elf Cantrip: Light"

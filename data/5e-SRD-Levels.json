@@ -20,7 +20,7 @@
       "brutal_critical_dice": 0
     },
     "index": 1,
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -48,7 +48,7 @@
       "brutal_critical_dice": 0
     },
     "index": 2,
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -72,7 +72,7 @@
       "brutal_critical_dice": 0
     },
     "index": 3,
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -96,7 +96,7 @@
       "brutal_critical_dice": 0
     },
     "index": 4,
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -124,7 +124,7 @@
       "brutal_critical_dice": 0
     },
     "index": 5,
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -144,7 +144,7 @@
       "brutal_critical_dice": 0
     },
     "index": 6,
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -169,7 +169,7 @@
       "brutal_critical_dice": 0
     },
     "index": 7,
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -194,7 +194,7 @@
       "brutal_critical_dice": 0
     },
     "index": 8,
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -219,7 +219,7 @@
       "brutal_critical_dice": 1
     },
     "index": 9,
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -239,7 +239,7 @@
       "brutal_critical_dice": 1
     },
     "index": 10,
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -264,7 +264,7 @@
       "brutal_critical_dice": 1
     },
     "index": 11,
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -288,7 +288,7 @@
       "brutal_critical_dice": 1
     },
     "index": 12,
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -312,7 +312,7 @@
       "brutal_critical_dice": 2
     },
     "index": 13,
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -331,7 +331,7 @@
       "brutal_critical_dice": 2
     },
     "index": 14,
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -355,7 +355,7 @@
       "brutal_critical_dice": 2
     },
     "index": 15,
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -379,7 +379,7 @@
       "brutal_critical_dice": 2
     },
     "index": 16,
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -403,7 +403,7 @@
       "brutal_critical_dice": 3
     },
     "index": 17,
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -427,7 +427,7 @@
       "brutal_critical_dice": 3
     },
     "index": 18,
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -451,7 +451,7 @@
       "brutal_critical_dice": 3
     },
     "index": 19,
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -475,7 +475,7 @@
       "brutal_critical_dice": 3
     },
     "index": 20,
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -522,7 +522,7 @@
       "magical_secrets_max_9": 0
     },
     "index": 21,
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -565,7 +565,7 @@
       "magical_secrets_max_9": 0
     },
     "index": 22,
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -609,7 +609,7 @@
       "magical_secrets_max_9": 0
     },
     "index": 23,
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -648,7 +648,7 @@
       "magical_secrets_max_9": 0
     },
     "index": 24,
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -691,7 +691,7 @@
       "magical_secrets_max_9": 0
     },
     "index": 25,
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -725,7 +725,7 @@
       "magical_secrets_max_9": 0
     },
     "index": 26,
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -764,7 +764,7 @@
       "magical_secrets_max_9": 0
     },
     "index": 27,
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -803,7 +803,7 @@
       "magical_secrets_max_9": 0
     },
     "index": 28,
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -842,7 +842,7 @@
       "magical_secrets_max_9": 0
     },
     "index": 29,
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -890,7 +890,7 @@
       "magical_secrets_max_9": 0
     },
     "index": 30,
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -924,7 +924,7 @@
       "magical_secrets_max_9": 0
     },
     "index": 31,
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -963,7 +963,7 @@
       "magical_secrets_max_9": 0
     },
     "index": 32,
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -1002,7 +1002,7 @@
       "magical_secrets_max_9": 0
     },
     "index": 33,
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -1041,7 +1041,7 @@
       "magical_secrets_max_9": 0
     },
     "index": 34,
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -1080,7 +1080,7 @@
       "magical_secrets_max_9": 0
     },
     "index": 35,
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -1119,7 +1119,7 @@
       "magical_secrets_max_9": 0
     },
     "index": 36,
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -1158,7 +1158,7 @@
       "magical_secrets_max_9": 0
     },
     "index": 37,
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -1197,7 +1197,7 @@
       "magical_secrets_max_9": 2
     },
     "index": 38,
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -1236,7 +1236,7 @@
       "magical_secrets_max_9": 2
     },
     "index": 39,
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -1275,7 +1275,7 @@
       "magical_secrets_max_9": 2
     },
     "index": 40,
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -1319,7 +1319,7 @@
       "destroy_undead_cr": 0
     },
     "index": 41,
-    "class": {
+    "class_": {
       "name": "Cleric",
       "url": "/api/classes/cleric"
     },
@@ -1359,7 +1359,7 @@
       "destroy_undead_cr": 0
     },
     "index": 42,
-    "class": {
+    "class_": {
       "name": "Cleric",
       "url": "/api/classes/cleric"
     },
@@ -1395,7 +1395,7 @@
       "destroy_undead_cr": 0
     },
     "index": 43,
-    "class": {
+    "class_": {
       "name": "Cleric",
       "url": "/api/classes/cleric"
     },
@@ -1431,7 +1431,7 @@
       "destroy_undead_cr": 0
     },
     "index": 44,
-    "class": {
+    "class_": {
       "name": "Cleric",
       "url": "/api/classes/cleric"
     },
@@ -1471,7 +1471,7 @@
       "destroy_undead_cr": 0.5
     },
     "index": 45,
-    "class": {
+    "class_": {
       "name": "Cleric",
       "url": "/api/classes/cleric"
     },
@@ -1507,7 +1507,7 @@
       "destroy_undead_cr": 0.5
     },
     "index": 46,
-    "class": {
+    "class_": {
       "name": "Cleric",
       "url": "/api/classes/cleric"
     },
@@ -1543,7 +1543,7 @@
       "destroy_undead_cr": 0.5
     },
     "index": 47,
-    "class": {
+    "class_": {
       "name": "Cleric",
       "url": "/api/classes/cleric"
     },
@@ -1583,7 +1583,7 @@
       "destroy_undead_cr": 1
     },
     "index": 48,
-    "class": {
+    "class_": {
       "name": "Cleric",
       "url": "/api/classes/cleric"
     },
@@ -1619,7 +1619,7 @@
       "destroy_undead_cr": 1
     },
     "index": 49,
-    "class": {
+    "class_": {
       "name": "Cleric",
       "url": "/api/classes/cleric"
     },
@@ -1655,7 +1655,7 @@
       "destroy_undead_cr": 1
     },
     "index": 50,
-    "class": {
+    "class_": {
       "name": "Cleric",
       "url": "/api/classes/cleric"
     },
@@ -1691,7 +1691,7 @@
       "destroy_undead_cr": 2
     },
     "index": 51,
-    "class": {
+    "class_": {
       "name": "Cleric",
       "url": "/api/classes/cleric"
     },
@@ -1727,7 +1727,7 @@
       "destroy_undead_cr": 2
     },
     "index": 52,
-    "class": {
+    "class_": {
       "name": "Cleric",
       "url": "/api/classes/cleric"
     },
@@ -1758,7 +1758,7 @@
       "destroy_undead_cr": 2
     },
     "index": 53,
-    "class": {
+    "class_": {
       "name": "Cleric",
       "url": "/api/classes/cleric"
     },
@@ -1794,7 +1794,7 @@
       "destroy_undead_cr": 3
     },
     "index": 54,
-    "class": {
+    "class_": {
       "name": "Cleric",
       "url": "/api/classes/cleric"
     },
@@ -1825,7 +1825,7 @@
       "destroy_undead_cr": 3
     },
     "index": 55,
-    "class": {
+    "class_": {
       "name": "Cleric",
       "url": "/api/classes/cleric"
     },
@@ -1861,7 +1861,7 @@
       "destroy_undead_cr": 3
     },
     "index": 56,
-    "class": {
+    "class_": {
       "name": "Cleric",
       "url": "/api/classes/cleric"
     },
@@ -1901,7 +1901,7 @@
       "destroy_undead_cr": 4
     },
     "index": 57,
-    "class": {
+    "class_": {
       "name": "Cleric",
       "url": "/api/classes/cleric"
     },
@@ -1937,7 +1937,7 @@
       "destroy_undead_cr": 4
     },
     "index": 58,
-    "class": {
+    "class_": {
       "name": "Cleric",
       "url": "/api/classes/cleric"
     },
@@ -1973,7 +1973,7 @@
       "destroy_undead_cr": 4
     },
     "index": 59,
-    "class": {
+    "class_": {
       "name": "Cleric",
       "url": "/api/classes/cleric"
     },
@@ -2009,7 +2009,7 @@
       "destroy_undead_cr": 4
     },
     "index": 60,
-    "class": {
+    "class_": {
       "name": "Cleric",
       "url": "/api/classes/cleric"
     },
@@ -2049,7 +2049,7 @@
       "wild_shape_fly": false
     },
     "index": 61,
-    "class": {
+    "class_": {
       "name": "Druid",
       "url": "/api/classes/druid"
     },
@@ -2089,7 +2089,7 @@
       "wild_shape_fly": false
     },
     "index": 62,
-    "class": {
+    "class_": {
       "name": "Druid",
       "url": "/api/classes/druid"
     },
@@ -2120,7 +2120,7 @@
       "wild_shape_fly": false
     },
     "index": 63,
-    "class": {
+    "class_": {
       "name": "Druid",
       "url": "/api/classes/druid"
     },
@@ -2160,7 +2160,7 @@
       "wild_shape_fly": false
     },
     "index": 64,
-    "class": {
+    "class_": {
       "name": "Druid",
       "url": "/api/classes/druid"
     },
@@ -2191,7 +2191,7 @@
       "wild_shape_fly": false
     },
     "index": 65,
-    "class": {
+    "class_": {
       "name": "Druid",
       "url": "/api/classes/druid"
     },
@@ -2222,7 +2222,7 @@
       "wild_shape_fly": false
     },
     "index": 66,
-    "class": {
+    "class_": {
       "name": "Druid",
       "url": "/api/classes/druid"
     },
@@ -2253,7 +2253,7 @@
       "wild_shape_fly": false
     },
     "index": 67,
-    "class": {
+    "class_": {
       "name": "Druid",
       "url": "/api/classes/druid"
     },
@@ -2293,7 +2293,7 @@
       "wild_shape_fly": true
     },
     "index": 68,
-    "class": {
+    "class_": {
       "name": "Druid",
       "url": "/api/classes/druid"
     },
@@ -2324,7 +2324,7 @@
       "wild_shape_fly": true
     },
     "index": 69,
-    "class": {
+    "class_": {
       "name": "Druid",
       "url": "/api/classes/druid"
     },
@@ -2355,7 +2355,7 @@
       "wild_shape_fly": true
     },
     "index": 70,
-    "class": {
+    "class_": {
       "name": "Druid",
       "url": "/api/classes/druid"
     },
@@ -2386,7 +2386,7 @@
       "wild_shape_fly": true
     },
     "index": 71,
-    "class": {
+    "class_": {
       "name": "Druid",
       "url": "/api/classes/druid"
     },
@@ -2422,7 +2422,7 @@
       "wild_shape_fly": true
     },
     "index": 72,
-    "class": {
+    "class_": {
       "name": "Druid",
       "url": "/api/classes/druid"
     },
@@ -2453,7 +2453,7 @@
       "wild_shape_fly": true
     },
     "index": 73,
-    "class": {
+    "class_": {
       "name": "Druid",
       "url": "/api/classes/druid"
     },
@@ -2484,7 +2484,7 @@
       "wild_shape_fly": true
     },
     "index": 74,
-    "class": {
+    "class_": {
       "name": "Druid",
       "url": "/api/classes/druid"
     },
@@ -2515,7 +2515,7 @@
       "wild_shape_fly": true
     },
     "index": 75,
-    "class": {
+    "class_": {
       "name": "Druid",
       "url": "/api/classes/druid"
     },
@@ -2551,7 +2551,7 @@
       "wild_shape_fly": true
     },
     "index": 76,
-    "class": {
+    "class_": {
       "name": "Druid",
       "url": "/api/classes/druid"
     },
@@ -2582,7 +2582,7 @@
       "wild_shape_fly": true
     },
     "index": 77,
-    "class": {
+    "class_": {
       "name": "Druid",
       "url": "/api/classes/druid"
     },
@@ -2622,7 +2622,7 @@
       "wild_shape_fly": true
     },
     "index": 78,
-    "class": {
+    "class_": {
       "name": "Druid",
       "url": "/api/classes/druid"
     },
@@ -2658,7 +2658,7 @@
       "wild_shape_fly": true
     },
     "index": 79,
-    "class": {
+    "class_": {
       "name": "Druid",
       "url": "/api/classes/druid"
     },
@@ -2694,7 +2694,7 @@
       "wild_shape_fly": true
     },
     "index": 80,
-    "class": {
+    "class_": {
       "name": "Druid",
       "url": "/api/classes/druid"
     },
@@ -2724,7 +2724,7 @@
       "extra_attacks": 0
     },
     "index": 81,
-    "class": {
+    "class_": {
       "name": "Fighter",
       "url": "/api/classes/fighter"
     },
@@ -2753,7 +2753,7 @@
       "extra_attacks": 0
     },
     "index": 82,
-    "class": {
+    "class_": {
       "name": "Fighter",
       "url": "/api/classes/fighter"
     },
@@ -2778,7 +2778,7 @@
       "extra_attacks": 0
     },
     "index": 83,
-    "class": {
+    "class_": {
       "name": "Fighter",
       "url": "/api/classes/fighter"
     },
@@ -2803,7 +2803,7 @@
       "extra_attacks": 0
     },
     "index": 84,
-    "class": {
+    "class_": {
       "name": "Fighter",
       "url": "/api/classes/fighter"
     },
@@ -2828,7 +2828,7 @@
       "extra_attacks": 1
     },
     "index": 85,
-    "class": {
+    "class_": {
       "name": "Fighter",
       "url": "/api/classes/fighter"
     },
@@ -2853,7 +2853,7 @@
       "extra_attacks": 1
     },
     "index": 86,
-    "class": {
+    "class_": {
       "name": "Fighter",
       "url": "/api/classes/fighter"
     },
@@ -2873,7 +2873,7 @@
       "extra_attacks": 1
     },
     "index": 87,
-    "class": {
+    "class_": {
       "name": "Fighter",
       "url": "/api/classes/fighter"
     },
@@ -2898,7 +2898,7 @@
       "extra_attacks": 1
     },
     "index": 88,
-    "class": {
+    "class_": {
       "name": "Fighter",
       "url": "/api/classes/fighter"
     },
@@ -2923,7 +2923,7 @@
       "extra_attacks": 1
     },
     "index": 89,
-    "class": {
+    "class_": {
       "name": "Fighter",
       "url": "/api/classes/fighter"
     },
@@ -2943,7 +2943,7 @@
       "extra_attacks": 1
     },
     "index": 90,
-    "class": {
+    "class_": {
       "name": "Fighter",
       "url": "/api/classes/fighter"
     },
@@ -2968,7 +2968,7 @@
       "extra_attacks": 2
     },
     "index": 91,
-    "class": {
+    "class_": {
       "name": "Fighter",
       "url": "/api/classes/fighter"
     },
@@ -2993,7 +2993,7 @@
       "extra_attacks": 2
     },
     "index": 92,
-    "class": {
+    "class_": {
       "name": "Fighter",
       "url": "/api/classes/fighter"
     },
@@ -3018,7 +3018,7 @@
       "extra_attacks": 2
     },
     "index": 93,
-    "class": {
+    "class_": {
       "name": "Fighter",
       "url": "/api/classes/fighter"
     },
@@ -3043,7 +3043,7 @@
       "extra_attacks": 2
     },
     "index": 94,
-    "class": {
+    "class_": {
       "name": "Fighter",
       "url": "/api/classes/fighter"
     },
@@ -3063,7 +3063,7 @@
       "extra_attacks": 2
     },
     "index": 95,
-    "class": {
+    "class_": {
       "name": "Fighter",
       "url": "/api/classes/fighter"
     },
@@ -3088,7 +3088,7 @@
       "extra_attacks": 2
     },
     "index": 96,
-    "class": {
+    "class_": {
       "name": "Fighter",
       "url": "/api/classes/fighter"
     },
@@ -3113,7 +3113,7 @@
       "extra_attacks": 2
     },
     "index": 97,
-    "class": {
+    "class_": {
       "name": "Fighter",
       "url": "/api/classes/fighter"
     },
@@ -3133,7 +3133,7 @@
       "extra_attacks": 2
     },
     "index": 98,
-    "class": {
+    "class_": {
       "name": "Fighter",
       "url": "/api/classes/fighter"
     },
@@ -3158,7 +3158,7 @@
       "extra_attacks": 2
     },
     "index": 99,
-    "class": {
+    "class_": {
       "name": "Fighter",
       "url": "/api/classes/fighter"
     },
@@ -3183,7 +3183,7 @@
       "extra_attacks": 3
     },
     "index": 100,
-    "class": {
+    "class_": {
       "name": "Fighter",
       "url": "/api/classes/fighter"
     },
@@ -3215,7 +3215,7 @@
       "unarmored_movement": 10
     },
     "index": 101,
-    "class": {
+    "class_": {
       "name": "Monk",
       "url": "/api/classes/monk"
     },
@@ -3259,7 +3259,7 @@
       "unarmored_movement": 10
     },
     "index": 102,
-    "class": {
+    "class_": {
       "name": "Monk",
       "url": "/api/classes/monk"
     },
@@ -3291,7 +3291,7 @@
       "unarmored_movement": 10
     },
     "index": 103,
-    "class": {
+    "class_": {
       "name": "Monk",
       "url": "/api/classes/monk"
     },
@@ -3323,7 +3323,7 @@
       "unarmored_movement": 10
     },
     "index": 104,
-    "class": {
+    "class_": {
       "name": "Monk",
       "url": "/api/classes/monk"
     },
@@ -3355,7 +3355,7 @@
       "unarmored_movement": 15
     },
     "index": 105,
-    "class": {
+    "class_": {
       "name": "Monk",
       "url": "/api/classes/monk"
     },
@@ -3383,7 +3383,7 @@
       "unarmored_movement": 15
     },
     "index": 106,
-    "class": {
+    "class_": {
       "name": "Monk",
       "url": "/api/classes/monk"
     },
@@ -3415,7 +3415,7 @@
       "unarmored_movement": 15
     },
     "index": 107,
-    "class": {
+    "class_": {
       "name": "Monk",
       "url": "/api/classes/monk"
     },
@@ -3443,7 +3443,7 @@
       "unarmored_movement": 15
     },
     "index": 108,
-    "class": {
+    "class_": {
       "name": "Monk",
       "url": "/api/classes/monk"
     },
@@ -3471,7 +3471,7 @@
       "unarmored_movement": 15
     },
     "index": 109,
-    "class": {
+    "class_": {
       "name": "Monk",
       "url": "/api/classes/monk"
     },
@@ -3499,7 +3499,7 @@
       "unarmored_movement": 20
     },
     "index": 110,
-    "class": {
+    "class_": {
       "name": "Monk",
       "url": "/api/classes/monk"
     },
@@ -3522,7 +3522,7 @@
       "unarmored_movement": 20
     },
     "index": 111,
-    "class": {
+    "class_": {
       "name": "Monk",
       "url": "/api/classes/monk"
     },
@@ -3550,7 +3550,7 @@
       "unarmored_movement": 20
     },
     "index": 112,
-    "class": {
+    "class_": {
       "name": "Monk",
       "url": "/api/classes/monk"
     },
@@ -3578,7 +3578,7 @@
       "unarmored_movement": 20
     },
     "index": 113,
-    "class": {
+    "class_": {
       "name": "Monk",
       "url": "/api/classes/monk"
     },
@@ -3606,7 +3606,7 @@
       "unarmored_movement": 25
     },
     "index": 114,
-    "class": {
+    "class_": {
       "name": "Monk",
       "url": "/api/classes/monk"
     },
@@ -3634,7 +3634,7 @@
       "unarmored_movement": 25
     },
     "index": 115,
-    "class": {
+    "class_": {
       "name": "Monk",
       "url": "/api/classes/monk"
     },
@@ -3662,7 +3662,7 @@
       "unarmored_movement": 25
     },
     "index": 116,
-    "class": {
+    "class_": {
       "name": "Monk",
       "url": "/api/classes/monk"
     },
@@ -3685,7 +3685,7 @@
       "unarmored_movement": 25
     },
     "index": 117,
-    "class": {
+    "class_": {
       "name": "Monk",
       "url": "/api/classes/monk"
     },
@@ -3713,7 +3713,7 @@
       "unarmored_movement": 30
     },
     "index": 118,
-    "class": {
+    "class_": {
       "name": "Monk",
       "url": "/api/classes/monk"
     },
@@ -3741,7 +3741,7 @@
       "unarmored_movement": 30
     },
     "index": 119,
-    "class": {
+    "class_": {
       "name": "Monk",
       "url": "/api/classes/monk"
     },
@@ -3769,7 +3769,7 @@
       "unarmored_movement": 30
     },
     "index": 120,
-    "class": {
+    "class_": {
       "name": "Monk",
       "url": "/api/classes/monk"
     },
@@ -3802,7 +3802,7 @@
       "aura_range": 0
     },
     "index": 121,
-    "class": {
+    "class_": {
       "name": "Paladin",
       "url": "/api/classes/paladin"
     },
@@ -3840,7 +3840,7 @@
       "aura_range": 0
     },
     "index": 122,
-    "class": {
+    "class_": {
       "name": "Paladin",
       "url": "/api/classes/paladin"
     },
@@ -3881,7 +3881,7 @@
       "aura_range": 0
     },
     "index": 123,
-    "class": {
+    "class_": {
       "name": "Paladin",
       "url": "/api/classes/paladin"
     },
@@ -3910,7 +3910,7 @@
       "aura_range": 0
     },
     "index": 124,
-    "class": {
+    "class_": {
       "name": "Paladin",
       "url": "/api/classes/paladin"
     },
@@ -3939,7 +3939,7 @@
       "aura_range": 0
     },
     "index": 125,
-    "class": {
+    "class_": {
       "name": "Paladin",
       "url": "/api/classes/paladin"
     },
@@ -3964,7 +3964,7 @@
     "spell_slots_level_5": 0,
     "aura_range": 10,
     "index": 126,
-    "class": {
+    "class_": {
       "name": "Paladin",
       "url": "/api/classes/paladin"
     },
@@ -3984,7 +3984,7 @@
     "spell_slots_level_5": 0,
     "aura_range": 10,
     "index": 127,
-    "class": {
+    "class_": {
       "name": "Paladin",
       "url": "/api/classes/paladin"
     },
@@ -4009,7 +4009,7 @@
     "spell_slots_level_5": 0,
     "aura_range": 10,
     "index": 128,
-    "class": {
+    "class_": {
       "name": "Paladin",
       "url": "/api/classes/paladin"
     },
@@ -4029,7 +4029,7 @@
     "spell_slots_level_5": 0,
     "aura_range": 10,
     "index": 129,
-    "class": {
+    "class_": {
       "name": "Paladin",
       "url": "/api/classes/paladin"
     },
@@ -4054,7 +4054,7 @@
     "spell_slots_level_5": 0,
     "aura_range": 10,
     "index": 130,
-    "class": {
+    "class_": {
       "name": "Paladin",
       "url": "/api/classes/paladin"
     },
@@ -4079,7 +4079,7 @@
     "spell_slots_level_5": 0,
     "aura_range": 10,
     "index": 131,
-    "class": {
+    "class_": {
       "name": "Paladin",
       "url": "/api/classes/paladin"
     },
@@ -4104,7 +4104,7 @@
     "spell_slots_level_5": 0,
     "aura_range": 10,
     "index": 132,
-    "class": {
+    "class_": {
       "name": "Paladin",
       "url": "/api/classes/paladin"
     },
@@ -4124,7 +4124,7 @@
     "spell_slots_level_5": 0,
     "aura_range": 10,
     "index": 133,
-    "class": {
+    "class_": {
       "name": "Paladin",
       "url": "/api/classes/paladin"
     },
@@ -4149,7 +4149,7 @@
     "spell_slots_level_5": 0,
     "aura_range": 10,
     "index": 134,
-    "class": {
+    "class_": {
       "name": "Paladin",
       "url": "/api/classes/paladin"
     },
@@ -4173,7 +4173,7 @@
       "aura_range": 0
     },
     "index": 135,
-    "class": {
+    "class_": {
       "name": "Paladin",
       "url": "/api/classes/paladin"
     },
@@ -4198,7 +4198,7 @@
     "spell_slots_level_5": 0,
     "aura_range": 10,
     "index": 136,
-    "class": {
+    "class_": {
       "name": "Paladin",
       "url": "/api/classes/paladin"
     },
@@ -4218,7 +4218,7 @@
     "spell_slots_level_5": 1,
     "aura_range": 10,
     "index": 137,
-    "class": {
+    "class_": {
       "name": "Paladin",
       "url": "/api/classes/paladin"
     },
@@ -4243,7 +4243,7 @@
     "spell_slots_level_5": 1,
     "aura_range": 30,
     "index": 138,
-    "class": {
+    "class_": {
       "name": "Paladin",
       "url": "/api/classes/paladin"
     },
@@ -4268,7 +4268,7 @@
     "spell_slots_level_5": 2,
     "aura_range": 30,
     "index": 139,
-    "class": {
+    "class_": {
       "name": "Paladin",
       "url": "/api/classes/paladin"
     },
@@ -4288,7 +4288,7 @@
     "spell_slots_level_5": 2,
     "aura_range": 30,
     "index": 140,
-    "class": {
+    "class_": {
       "name": "Paladin",
       "url": "/api/classes/paladin"
     },
@@ -4323,7 +4323,7 @@
       "favored_terrain": 1
     },
     "index": 141,
-    "class": {
+    "class_": {
       "name": "Ranger",
       "url": "/api/classes/ranger"
     },
@@ -4359,7 +4359,7 @@
       "favored_terrain": 1
     },
     "index": 142,
-    "class": {
+    "class_": {
       "name": "Ranger",
       "url": "/api/classes/ranger"
     },
@@ -4394,7 +4394,7 @@
       "favored_terrain": 1
     },
     "index": 143,
-    "class": {
+    "class_": {
       "name": "Ranger",
       "url": "/api/classes/ranger"
     },
@@ -4425,7 +4425,7 @@
       "favored_terrain": 1
     },
     "index": 144,
-    "class": {
+    "class_": {
       "name": "Ranger",
       "url": "/api/classes/ranger"
     },
@@ -4456,7 +4456,7 @@
       "favored_terrain": 1
     },
     "index": 145,
-    "class": {
+    "class_": {
       "name": "Ranger",
       "url": "/api/classes/ranger"
     },
@@ -4491,7 +4491,7 @@
       "favored_terrain": 2
     },
     "index": 146,
-    "class": {
+    "class_": {
       "name": "Ranger",
       "url": "/api/classes/ranger"
     },
@@ -4517,7 +4517,7 @@
       "favored_terrain": 2
     },
     "index": 147,
-    "class": {
+    "class_": {
       "name": "Ranger",
       "url": "/api/classes/ranger"
     },
@@ -4552,7 +4552,7 @@
       "favored_terrain": 2
     },
     "index": 148,
-    "class": {
+    "class_": {
       "name": "Ranger",
       "url": "/api/classes/ranger"
     },
@@ -4578,7 +4578,7 @@
       "favored_terrain": 2
     },
     "index": 149,
-    "class": {
+    "class_": {
       "name": "Ranger",
       "url": "/api/classes/ranger"
     },
@@ -4613,7 +4613,7 @@
       "favored_terrain": 3
     },
     "index": 150,
-    "class": {
+    "class_": {
       "name": "Ranger",
       "url": "/api/classes/ranger"
     },
@@ -4639,7 +4639,7 @@
       "favored_terrain": 3
     },
     "index": 151,
-    "class": {
+    "class_": {
       "name": "Ranger",
       "url": "/api/classes/ranger"
     },
@@ -4670,7 +4670,7 @@
       "favored_terrain": 3
     },
     "index": 152,
-    "class": {
+    "class_": {
       "name": "Ranger",
       "url": "/api/classes/ranger"
     },
@@ -4696,7 +4696,7 @@
       "favored_terrain": 3
     },
     "index": 153,
-    "class": {
+    "class_": {
       "name": "Ranger",
       "url": "/api/classes/ranger"
     },
@@ -4731,7 +4731,7 @@
       "favored_terrain": 3
     },
     "index": 154,
-    "class": {
+    "class_": {
       "name": "Ranger",
       "url": "/api/classes/ranger"
     },
@@ -4757,7 +4757,7 @@
       "favored_terrain": 3
     },
     "index": 155,
-    "class": {
+    "class_": {
       "name": "Ranger",
       "url": "/api/classes/ranger"
     },
@@ -4788,7 +4788,7 @@
       "favored_terrain": 3
     },
     "index": 156,
-    "class": {
+    "class_": {
       "name": "Ranger",
       "url": "/api/classes/ranger"
     },
@@ -4814,7 +4814,7 @@
       "favored_terrain": 3
     },
     "index": 157,
-    "class": {
+    "class_": {
       "name": "Ranger",
       "url": "/api/classes/ranger"
     },
@@ -4845,7 +4845,7 @@
       "favored_terrain": 3
     },
     "index": 158,
-    "class": {
+    "class_": {
       "name": "Ranger",
       "url": "/api/classes/ranger"
     },
@@ -4876,7 +4876,7 @@
       "favored_terrain": 3
     },
     "index": 159,
-    "class": {
+    "class_": {
       "name": "Ranger",
       "url": "/api/classes/ranger"
     },
@@ -4907,7 +4907,7 @@
       "favored_terrain": 3
     },
     "index": 160,
-    "class": {
+    "class_": {
       "name": "Ranger",
       "url": "/api/classes/ranger"
     },
@@ -4942,7 +4942,7 @@
       }
     },
     "index": 161,
-    "class": {
+    "class_": {
       "name": "Rogue",
       "url": "/api/classes/rogue"
     },
@@ -4968,7 +4968,7 @@
       }
     },
     "index": 162,
-    "class": {
+    "class_": {
       "name": "Rogue",
       "url": "/api/classes/rogue"
     },
@@ -4994,7 +4994,7 @@
       }
     },
     "index": 163,
-    "class": {
+    "class_": {
       "name": "Rogue",
       "url": "/api/classes/rogue"
     },
@@ -5020,7 +5020,7 @@
       }
     },
     "index": 164,
-    "class": {
+    "class_": {
       "name": "Rogue",
       "url": "/api/classes/rogue"
     },
@@ -5046,7 +5046,7 @@
       }
     },
     "index": 165,
-    "class": {
+    "class_": {
       "name": "Rogue",
       "url": "/api/classes/rogue"
     },
@@ -5072,7 +5072,7 @@
       }
     },
     "index": 166,
-    "class": {
+    "class_": {
       "name": "Rogue",
       "url": "/api/classes/rogue"
     },
@@ -5098,7 +5098,7 @@
       }
     },
     "index": 167,
-    "class": {
+    "class_": {
       "name": "Rogue",
       "url": "/api/classes/rogue"
     },
@@ -5124,7 +5124,7 @@
       }
     },
     "index": 168,
-    "class": {
+    "class_": {
       "name": "Rogue",
       "url": "/api/classes/rogue"
     },
@@ -5150,7 +5150,7 @@
       }
     },
     "index": 169,
-    "class": {
+    "class_": {
       "name": "Rogue",
       "url": "/api/classes/rogue"
     },
@@ -5176,7 +5176,7 @@
       }
     },
     "index": 170,
-    "class": {
+    "class_": {
       "name": "Rogue",
       "url": "/api/classes/rogue"
     },
@@ -5202,7 +5202,7 @@
       }
     },
     "index": 171,
-    "class": {
+    "class_": {
       "name": "Rogue",
       "url": "/api/classes/rogue"
     },
@@ -5228,7 +5228,7 @@
       }
     },
     "index": 172,
-    "class": {
+    "class_": {
       "name": "Rogue",
       "url": "/api/classes/rogue"
     },
@@ -5249,7 +5249,7 @@
       }
     },
     "index": 173,
-    "class": {
+    "class_": {
       "name": "Rogue",
       "url": "/api/classes/rogue"
     },
@@ -5275,7 +5275,7 @@
       }
     },
     "index": 174,
-    "class": {
+    "class_": {
       "name": "Rogue",
       "url": "/api/classes/rogue"
     },
@@ -5301,7 +5301,7 @@
       }
     },
     "index": 175,
-    "class": {
+    "class_": {
       "name": "Rogue",
       "url": "/api/classes/rogue"
     },
@@ -5327,7 +5327,7 @@
       }
     },
     "index": 176,
-    "class": {
+    "class_": {
       "name": "Rogue",
       "url": "/api/classes/rogue"
     },
@@ -5348,7 +5348,7 @@
       }
     },
     "index": 177,
-    "class": {
+    "class_": {
       "name": "Rogue",
       "url": "/api/classes/rogue"
     },
@@ -5374,7 +5374,7 @@
       }
     },
     "index": 178,
-    "class": {
+    "class_": {
       "name": "Rogue",
       "url": "/api/classes/rogue"
     },
@@ -5400,7 +5400,7 @@
       }
     },
     "index": 179,
-    "class": {
+    "class_": {
       "name": "Rogue",
       "url": "/api/classes/rogue"
     },
@@ -5426,7 +5426,7 @@
       }
     },
     "index": 180,
-    "class": {
+    "class_": {
       "name": "Rogue",
       "url": "/api/classes/rogue"
     },
@@ -5467,7 +5467,7 @@
       "creating_spell_slots": []
     },
     "index": 181,
-    "class": {
+    "class_": {
       "name": "Sorcerer",
       "url": "/api/classes/sorcerer"
     },
@@ -5533,7 +5533,7 @@
       ]
     },
     "index": 182,
-    "class": {
+    "class_": {
       "name": "Sorcerer",
       "url": "/api/classes/sorcerer"
     },
@@ -5591,7 +5591,7 @@
       ]
     },
     "index": 183,
-    "class": {
+    "class_": {
       "name": "Sorcerer",
       "url": "/api/classes/sorcerer"
     },
@@ -5649,7 +5649,7 @@
       ]
     },
     "index": 184,
-    "class": {
+    "class_": {
       "name": "Sorcerer",
       "url": "/api/classes/sorcerer"
     },
@@ -5702,7 +5702,7 @@
       ]
     },
     "index": 185,
-    "class": {
+    "class_": {
       "name": "Sorcerer",
       "url": "/api/classes/sorcerer"
     },
@@ -5755,7 +5755,7 @@
       ]
     },
     "index": 186,
-    "class": {
+    "class_": {
       "name": "Sorcerer",
       "url": "/api/classes/sorcerer"
     },
@@ -5808,7 +5808,7 @@
       ]
     },
     "index": 187,
-    "class": {
+    "class_": {
       "name": "Sorcerer",
       "url": "/api/classes/sorcerer"
     },
@@ -5866,7 +5866,7 @@
       ]
     },
     "index": 188,
-    "class": {
+    "class_": {
       "name": "Sorcerer",
       "url": "/api/classes/sorcerer"
     },
@@ -5919,7 +5919,7 @@
       ]
     },
     "index": 189,
-    "class": {
+    "class_": {
       "name": "Sorcerer",
       "url": "/api/classes/sorcerer"
     },
@@ -5977,7 +5977,7 @@
       ]
     },
     "index": 190,
-    "class": {
+    "class_": {
       "name": "Sorcerer",
       "url": "/api/classes/sorcerer"
     },
@@ -6030,7 +6030,7 @@
       ]
     },
     "index": 191,
-    "class": {
+    "class_": {
       "name": "Sorcerer",
       "url": "/api/classes/sorcerer"
     },
@@ -6088,7 +6088,7 @@
       ]
     },
     "index": 192,
-    "class": {
+    "class_": {
       "name": "Sorcerer",
       "url": "/api/classes/sorcerer"
     },
@@ -6141,7 +6141,7 @@
       ]
     },
     "index": 193,
-    "class": {
+    "class_": {
       "name": "Sorcerer",
       "url": "/api/classes/sorcerer"
     },
@@ -6194,7 +6194,7 @@
       ]
     },
     "index": 194,
-    "class": {
+    "class_": {
       "name": "Sorcerer",
       "url": "/api/classes/sorcerer"
     },
@@ -6247,7 +6247,7 @@
       ]
     },
     "index": 195,
-    "class": {
+    "class_": {
       "name": "Sorcerer",
       "url": "/api/classes/sorcerer"
     },
@@ -6305,7 +6305,7 @@
       ]
     },
     "index": 196,
-    "class": {
+    "class_": {
       "name": "Sorcerer",
       "url": "/api/classes/sorcerer"
     },
@@ -6363,7 +6363,7 @@
       ]
     },
     "index": 197,
-    "class": {
+    "class_": {
       "name": "Sorcerer",
       "url": "/api/classes/sorcerer"
     },
@@ -6416,7 +6416,7 @@
       ]
     },
     "index": 198,
-    "class": {
+    "class_": {
       "name": "Sorcerer",
       "url": "/api/classes/sorcerer"
     },
@@ -6474,7 +6474,7 @@
       ]
     },
     "index": 199,
-    "class": {
+    "class_": {
       "name": "Sorcerer",
       "url": "/api/classes/sorcerer"
     },
@@ -6532,7 +6532,7 @@
       ]
     },
     "index": 200,
-    "class": {
+    "class_": {
       "name": "Sorcerer",
       "url": "/api/classes/sorcerer"
     },
@@ -6575,7 +6575,7 @@
       "mystic_arcanum_level_9": 0
     },
     "index": 201,
-    "class": {
+    "class_": {
       "name": "Warlock",
       "url": "/api/classes/warlock"
     },
@@ -6614,7 +6614,7 @@
       "mystic_arcanum_level_9": 0
     },
     "index": 202,
-    "class": {
+    "class_": {
       "name": "Warlock",
       "url": "/api/classes/warlock"
     },
@@ -6653,7 +6653,7 @@
       "mystic_arcanum_level_9": 0
     },
     "index": 203,
-    "class": {
+    "class_": {
       "name": "Warlock",
       "url": "/api/classes/warlock"
     },
@@ -6692,7 +6692,7 @@
       "mystic_arcanum_level_9": 0
     },
     "index": 204,
-    "class": {
+    "class_": {
       "name": "Warlock",
       "url": "/api/classes/warlock"
     },
@@ -6731,7 +6731,7 @@
       "mystic_arcanum_level_9": 0
     },
     "index": 205,
-    "class": {
+    "class_": {
       "name": "Warlock",
       "url": "/api/classes/warlock"
     },
@@ -6765,7 +6765,7 @@
       "mystic_arcanum_level_9": 0
     },
     "index": 206,
-    "class": {
+    "class_": {
       "name": "Warlock",
       "url": "/api/classes/warlock"
     },
@@ -6804,7 +6804,7 @@
       "mystic_arcanum_level_9": 0
     },
     "index": 207,
-    "class": {
+    "class_": {
       "name": "Warlock",
       "url": "/api/classes/warlock"
     },
@@ -6843,7 +6843,7 @@
       "mystic_arcanum_level_9": 0
     },
     "index": 208,
-    "class": {
+    "class_": {
       "name": "Warlock",
       "url": "/api/classes/warlock"
     },
@@ -6882,7 +6882,7 @@
       "mystic_arcanum_level_9": 0
     },
     "index": 209,
-    "class": {
+    "class_": {
       "name": "Warlock",
       "url": "/api/classes/warlock"
     },
@@ -6916,7 +6916,7 @@
       "mystic_arcanum_level_9": 0
     },
     "index": 210,
-    "class": {
+    "class_": {
       "name": "Warlock",
       "url": "/api/classes/warlock"
     },
@@ -6955,7 +6955,7 @@
       "mystic_arcanum_level_9": 0
     },
     "index": 211,
-    "class": {
+    "class_": {
       "name": "Warlock",
       "url": "/api/classes/warlock"
     },
@@ -6998,7 +6998,7 @@
       "mystic_arcanum_level_9": 0
     },
     "index": 212,
-    "class": {
+    "class_": {
       "name": "Warlock",
       "url": "/api/classes/warlock"
     },
@@ -7037,7 +7037,7 @@
       "mystic_arcanum_level_9": 0
     },
     "index": 213,
-    "class": {
+    "class_": {
       "name": "Warlock",
       "url": "/api/classes/warlock"
     },
@@ -7071,7 +7071,7 @@
       "mystic_arcanum_level_9": 0
     },
     "index": 214,
-    "class": {
+    "class_": {
       "name": "Warlock",
       "url": "/api/classes/warlock"
     },
@@ -7114,7 +7114,7 @@
       "mystic_arcanum_level_9": 0
     },
     "index": 215,
-    "class": {
+    "class_": {
       "name": "Warlock",
       "url": "/api/classes/warlock"
     },
@@ -7153,7 +7153,7 @@
       "mystic_arcanum_level_9": 0
     },
     "index": 216,
-    "class": {
+    "class_": {
       "name": "Warlock",
       "url": "/api/classes/warlock"
     },
@@ -7192,7 +7192,7 @@
       "mystic_arcanum_level_9": 1
     },
     "index": 217,
-    "class": {
+    "class_": {
       "name": "Warlock",
       "url": "/api/classes/warlock"
     },
@@ -7231,7 +7231,7 @@
       "mystic_arcanum_level_9": 1
     },
     "index": 218,
-    "class": {
+    "class_": {
       "name": "Warlock",
       "url": "/api/classes/warlock"
     },
@@ -7270,7 +7270,7 @@
       "mystic_arcanum_level_9": 1
     },
     "index": 219,
-    "class": {
+    "class_": {
       "name": "Warlock",
       "url": "/api/classes/warlock"
     },
@@ -7313,7 +7313,7 @@
       "mystic_arcanum_level_9": 1
     },
     "index": 220,
-    "class": {
+    "class_": {
       "name": "Warlock",
       "url": "/api/classes/warlock"
     },
@@ -7351,7 +7351,7 @@
       "arcane_recovery_levels": 1
     },
     "index": 221,
-    "class": {
+    "class_": {
       "name": "Wizard",
       "url": "/api/classes/wizard"
     },
@@ -7385,7 +7385,7 @@
       "arcane_recovery_levels": 1
     },
     "index": 222,
-    "class": {
+    "class_": {
       "name": "Wizard",
       "url": "/api/classes/wizard"
     },
@@ -7414,7 +7414,7 @@
       "arcane_recovery_levels": 2
     },
     "index": 223,
-    "class": {
+    "class_": {
       "name": "Wizard",
       "url": "/api/classes/wizard"
     },
@@ -7448,7 +7448,7 @@
       "arcane_recovery_levels": 2
     },
     "index": 224,
-    "class": {
+    "class_": {
       "name": "Wizard",
       "url": "/api/classes/wizard"
     },
@@ -7477,7 +7477,7 @@
       "arcane_recovery_levels": 3
     },
     "index": 225,
-    "class": {
+    "class_": {
       "name": "Wizard",
       "url": "/api/classes/wizard"
     },
@@ -7506,7 +7506,7 @@
       "arcane_recovery_levels": 3
     },
     "index": 226,
-    "class": {
+    "class_": {
       "name": "Wizard",
       "url": "/api/classes/wizard"
     },
@@ -7535,7 +7535,7 @@
       "arcane_recovery_levels": 4
     },
     "index": 227,
-    "class": {
+    "class_": {
       "name": "Wizard",
       "url": "/api/classes/wizard"
     },
@@ -7569,7 +7569,7 @@
       "arcane_recovery_levels": 4
     },
     "index": 228,
-    "class": {
+    "class_": {
       "name": "Wizard",
       "url": "/api/classes/wizard"
     },
@@ -7598,7 +7598,7 @@
       "arcane_recovery_levels": 5
     },
     "index": 229,
-    "class": {
+    "class_": {
       "name": "Wizard",
       "url": "/api/classes/wizard"
     },
@@ -7627,7 +7627,7 @@
       "arcane_recovery_levels": 5
     },
     "index": 230,
-    "class": {
+    "class_": {
       "name": "Wizard",
       "url": "/api/classes/wizard"
     },
@@ -7656,7 +7656,7 @@
       "arcane_recovery_levels": 6
     },
     "index": 231,
-    "class": {
+    "class_": {
       "name": "Wizard",
       "url": "/api/classes/wizard"
     },
@@ -7690,7 +7690,7 @@
       "arcane_recovery_levels": 6
     },
     "index": 232,
-    "class": {
+    "class_": {
       "name": "Wizard",
       "url": "/api/classes/wizard"
     },
@@ -7719,7 +7719,7 @@
       "arcane_recovery_levels": 7
     },
     "index": 233,
-    "class": {
+    "class_": {
       "name": "Wizard",
       "url": "/api/classes/wizard"
     },
@@ -7748,7 +7748,7 @@
       "arcane_recovery_levels": 7
     },
     "index": 234,
-    "class": {
+    "class_": {
       "name": "Wizard",
       "url": "/api/classes/wizard"
     },
@@ -7777,7 +7777,7 @@
       "arcane_recovery_levels": 8
     },
     "index": 235,
-    "class": {
+    "class_": {
       "name": "Wizard",
       "url": "/api/classes/wizard"
     },
@@ -7811,7 +7811,7 @@
       "arcane_recovery_levels": 8
     },
     "index": 236,
-    "class": {
+    "class_": {
       "name": "Wizard",
       "url": "/api/classes/wizard"
     },
@@ -7840,7 +7840,7 @@
       "arcane_recovery_levels": 9
     },
     "index": 237,
-    "class": {
+    "class_": {
       "name": "Wizard",
       "url": "/api/classes/wizard"
     },
@@ -7874,7 +7874,7 @@
       "arcane_recovery_levels": 9
     },
     "index": 238,
-    "class": {
+    "class_": {
       "name": "Wizard",
       "url": "/api/classes/wizard"
     },
@@ -7908,7 +7908,7 @@
       "arcane_recovery_levels": 10
     },
     "index": 239,
-    "class": {
+    "class_": {
       "name": "Wizard",
       "url": "/api/classes/wizard"
     },
@@ -7942,7 +7942,7 @@
       "arcane_recovery_levels": 10
     },
     "index": 240,
-    "class": {
+    "class_": {
       "name": "Wizard",
       "url": "/api/classes/wizard"
     },
@@ -7963,7 +7963,7 @@
       }
     ],
     "spellcasting": {},
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -7985,7 +7985,7 @@
     ],
     "spellcasting": {},
     "index": 242,
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -8005,7 +8005,7 @@
       }
     ],
     "spellcasting": {},
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -8026,7 +8026,7 @@
       }
     ],
     "spellcasting": {},
-    "class": {
+    "class_": {
       "name": "Barbarian",
       "url": "/api/classes/barbarian"
     },
@@ -8054,7 +8054,7 @@
     "subclass_specific": {
       "additional_magical_secrets_max_lvl": 0
     },
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -8078,7 +8078,7 @@
     "subclass_specific": {
       "additional_magical_secrets_max_lvl": 3
     },
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },
@@ -8102,7 +8102,7 @@
     "subclass_specific": {
       "additional_magical_secrets_max_lvl": 3
     },
-    "class": {
+    "class_": {
       "name": "Bard",
       "url": "/api/classes/bard"
     },

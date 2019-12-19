@@ -1,6 +1,6 @@
 [{
 	"index": 1,
-	"class": {
+	"class_": {
 		"url": "/api/classes/1",
 		"name": "Barbarian"
 	},
@@ -11,12 +11,12 @@
 	"choice_1": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/18", "name": "Greataxe"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/15", "name": "Battleaxe"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/16", "name": "Flail"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/17", "name": "Glaive"}, "quantity": 1}, {
@@ -39,12 +39,12 @@
 	"choice_2": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/4", "name": "Handaxe"}, "quantity": 2}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/1", "name": "Club"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/2", "name": "Dagger"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/3", "name": "Greatclub"}, "quantity": 1}, {
@@ -63,7 +63,7 @@
 	"url": "/api/startingequipment/1"
 }, {
 	"index": 2,
-	"class": {
+	"class_": {
 		"url": "/api/classes/2",
 		"name": "Bard"
 	},
@@ -74,17 +74,17 @@
 	"choice_1": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/26", "name": "Rapier"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/22", "name": "Longsword"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/1", "name": "Club"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/2", "name": "Dagger"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/3", "name": "Greatclub"}, "quantity": 1}, {
@@ -103,23 +103,23 @@
 	"choice_2": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/155", "name": "Diplomat's Pack"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/157", "name": "Entertainer's Pack"}, "quantity": 1}]
 	}],
 	"choice_3": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/184", "name": "Lute"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/180", "name": "Bagpipes"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/181", "name": "Drum"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/182", "name": "Dulcimer"}, "quantity": 1}, {
@@ -134,7 +134,7 @@
 	"url": "/api/startingequipment/2"
 }, {
 	"index": 3,
-	"class": {
+	"class_": {
 		"url": "/api/classes/3",
 		"name": "Cleric"
 	},
@@ -144,12 +144,12 @@
 	"choice_1": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/7", "name": "Mace" },"quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/31", "name": "Warhammer" }, "quantity": 1,
 			"prerequisites": [{
 				"type": "proficiency",
@@ -160,17 +160,17 @@
 	"choice_2": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/43", "name": "Scale Mail"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/39", "name": "Leather"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/47", "name": "Chain Mail"}, "quantity": 1,	"prerequisites": [{
 				"type": "proficiency",
 				"proficiency":{ "url": "/api/proficiencies/14", "name": "Chain Mail" }
@@ -180,13 +180,13 @@
 	"choice_3": [{
 		"choose": 2,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/11", "name": "Crossbow, light"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/56", "name": "Crossbow bolt"}, "quantity": 20}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/1", "name": "Club"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/2", "name": "Dagger"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/3", "name": "Greatclub"}, "quantity": 1}, {
@@ -205,18 +205,18 @@
 	"choice_4": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/159", "name": "Priest's Pack"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/158", "name": "Explorer's Pack"}, "quantity": 1}]
 	}],
 	"choice_5": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/58", "name": "Amulet"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/93", "name": "Emblem"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/134", "name": "Reliquary"}, "quantity": 1}]
@@ -224,7 +224,7 @@
 	"url": "/api/startingequipment/3"
 }, {
 	"index": 4,
-	"class": {
+	"class_": {
 		"url": "/api/classes/4",
 		"name": "Druid"
 	},
@@ -235,12 +235,12 @@
 	"choice_1": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/50", "name": "Shield"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/1", "name": "Club"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/2", "name": "Dagger"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/3", "name": "Greatclub"}, "quantity": 1}, {
@@ -259,12 +259,12 @@
 	"choice_2": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/27", "name": "Scimitar"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/1", "name": "Club"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/2", "name": "Dagger"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/3", "name": "Greatclub"}, "quantity": 1}, {
@@ -279,7 +279,7 @@
 	"choice_3": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/89", "name": "Sprig of mistletoe"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/90", "name": "Totem"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/91", "name": "Wooden staff"}, "quantity": 1}, {
@@ -288,7 +288,7 @@
 	"url": "/api/startingequipment/4"
 }, {
 	"index": 5,
-	"class": {
+	"class_": {
 		"url": "/api/classes/5",
 		"name": "Fighter"
 	},
@@ -297,12 +297,12 @@
 	"choice_1": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/47", "name": "Chain Mail"}, "quantity": 1}]
 	}, {
 		"choose": 3,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/39", "name": "Leather"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/36", "name": "Longbow"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/54", "name": "Arrow"}, "quantity": 20}]
@@ -310,12 +310,12 @@
 	"choice_2": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 		"item": { "url": "/api/equipment/50", "name": "Shield"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/15", "name": "Battleaxe"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/16", "name": "Flail"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/17", "name": "Glaive"}, "quantity": 1}, {
@@ -343,30 +343,30 @@
 	"choice_3": [{
 		"choose": 2,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/11", "name": "Crossbow, light"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/56", "name": "Crossbow bolt"}, "quantity": 20}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/4", "name": "Handaxe"}, "quantity": 2}]
 	}],
 	"choice_4": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/156", "name": "Dungeoneer's Pack"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/158", "name": "Explorer's Pack"}, "quantity": 1}]
 	}],
 	"choice_5": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/15", "name": "Battleaxe"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/16", "name": "Flail"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/17", "name": "Glaive"}, "quantity": 1}, {
@@ -394,7 +394,7 @@
 	"url": "/api/startingequipment/5"
 }, {
 	"index": 6,
-	"class": {
+	"class_": {
 		"url": "/api/classes/6",
 		"name": "Monk"
 	},
@@ -404,12 +404,12 @@
 	"choice_1": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/28", "name": "Shortsword"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/1", "name": "Club"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/2", "name": "Dagger"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/3", "name": "Greatclub"}, "quantity": 1}, {
@@ -428,18 +428,18 @@
 	"choice_2": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/156", "name": "Dungeoneer's Pack"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/158", "name": "Explorer's Pack"}, "quantity": 1}]
 	}],
 	"url": "/api/startingequipment/6"
 }, {
 	"index": 7,
-	"class": {
+	"class_": {
 		"url": "/api/classes/7",
 		"name": "Paladin"
 	},
@@ -449,12 +449,12 @@
 	"choice_1": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 		"item": { "url": "/api/equipment/50", "name": "Shield"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/15", "name": "Battleaxe"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/16", "name": "Flail"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/17", "name": "Glaive"}, "quantity": 1}, {
@@ -482,12 +482,12 @@
 	"choice_2": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/5", "name": "Javelin"}, "quantity": 5}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/1", "name": "Club"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/2", "name": "Dagger"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/3", "name": "Greatclub"}, "quantity": 1}, {
@@ -506,18 +506,18 @@
 	"choice_3": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/159", "name": "Priest's Pack"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/158", "name": "Explorer's Pack"}, "quantity": 1}]
 	}],
 	"choice_4": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/58", "name": "Amulet"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/93", "name": "Emblem"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/134", "name": "Reliquary"}, "quantity": 1}]
@@ -525,7 +525,7 @@
 	"choice_5": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/15", "name": "Battleaxe"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/16", "name": "Flail"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/17", "name": "Glaive"}, "quantity": 1}, {
@@ -553,7 +553,7 @@
 	"url": "/api/startingequipment/7"
 }, {
 	"index": 8,
-	"class": {
+	"class_": {
 		"url": "/api/classes/8",
 		"name": "Ranger"
 	},
@@ -564,23 +564,23 @@
 	"choice_1": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/43", "name": "Scale Mail"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/39", "name": "Leather"}, "quantity": 1}]
 	}],
 	"choice_2": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/28", "name": "Shortsword"}, "quantity": 2}]
 	}, {
 		"choose": 2,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/1", "name": "Club"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/2", "name": "Dagger"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/3", "name": "Greatclub"}, "quantity": 1}, {
@@ -595,18 +595,18 @@
 	"choice_3": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/156", "name": "Dungeoneer's Pack"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/158", "name": "Explorer's Pack"}, "quantity": 1}]
 	}],
 	"url": "/api/startingequipment/8"
 }, {
 	"index": 9,
-	"class": {
+	"class_": {
 		"url": "/api/classes/9",
 		"name": "Rogue"
 	},
@@ -618,46 +618,46 @@
 	"choice_1": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/26", "name": "Rapier"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/28", "name": "Shortsword"}, "quantity": 1}]
 	}],
 	"choice_2": [{
 		"choose": 2,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/13", "name": "Shortbow"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/54", "name": "Arrow"}, "quantity": 20}]
 	}, {
 		"choose": 2,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/28", "name": "Shortsword"}, "quantity": 1}]
 	}],
 	"choice_3": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/154", "name": "Burglar's Pack"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/156", "name": "Dungeoneer's Pack"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/158", "name": "Explorer's Pack"}, "quantity": 1}]
 	}],
 	"url": "/api/startingequipment/9"
 }, {
 	"index": 10,
-	"class": {
+	"class_": {
 		"url": "/api/classes/10",
 		"name": "Sorcerer"
 	},
@@ -667,13 +667,13 @@
 	"choice_1": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/11", "name": "Crossbow, light"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/56", "name": "Crossbow bolt"}, "quantity": 20}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/1", "name": "Club"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/2", "name": "Dagger"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/3", "name": "Greatclub"}, "quantity": 1}, {
@@ -692,12 +692,12 @@
 	"choice_2": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/87", "name": "Component pouch"}, "quantity": 2}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/60", "name": "Crystal"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/61", "name": "Orb"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/62", "name": "Rod"}, "quantity": 1}, {
@@ -707,18 +707,18 @@
 	"choice_3": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/156", "name": "Dungeoneer's Pack"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/158", "name": "Explorer's Pack"}, "quantity": 1}]
 	}],
 	"url": "/api/startingequipment/10"
 }, {
 	"index": 11,
-	"class": {
+	"class_": {
 		"url": "/api/classes/11",
 		"name": "Warlock"
 	},
@@ -729,13 +729,13 @@
 	"choice_1": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/11", "name": "Crossbow, light"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/56", "name": "Crossbow bolt"}, "quantity": 20}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/1", "name": "Club"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/2", "name": "Dagger"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/3", "name": "Greatclub"}, "quantity": 1}, {
@@ -754,12 +754,12 @@
 	"choice_2": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/87", "name": "Component pouch"}, "quantity": 2}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/60", "name": "Crystal"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/61", "name": "Orb"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/62", "name": "Rod"}, "quantity": 1}, {
@@ -769,18 +769,18 @@
 	"choice_3": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/160", "name": "Scholar's Pack"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/156", "name": "Dungeoneer's Pack"}, "quantity": 1}]
 	}],
 	"choice_4": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/1", "name": "Club"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/2", "name": "Dagger"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/3", "name": "Greatclub"}, "quantity": 1}, {
@@ -799,7 +799,7 @@
 	"url": "/api/startingequipment/11"
 }, {
 	"index": 12,
-	"class": {
+	"class_": {
 		"url": "/api/classes/12",
 		"name": "Wizard"
 	},
@@ -809,23 +809,23 @@
 	"choice_1": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/2", "name": "Dagger"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/8", "name": "Quarterstaff"}, "quantity": 1}]
 	}],
 	"choice_2": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/87", "name": "Component pouch"}, "quantity": 2}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/60", "name": "Crystal"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/61", "name": "Orb"}, "quantity": 1}, {
 			"item": { "url": "/api/equipment/62", "name": "Rod"}, "quantity": 1}, {
@@ -835,12 +835,12 @@
 	"choice_3": [{
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/160", "name": "Scholar's Pack"}, "quantity": 1}]
 	}, {
 		"choose": 1,
 		"type": "equipment",
-		"from": [{
+		"source": [{
 			"item": { "url": "/api/equipment/156", "name": "Dungeoneer's Pack"}, "quantity": 1}]
 	}],
 	"url": "/api/startingequipment/12"

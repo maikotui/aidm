@@ -1,6 +1,6 @@
 [{
 	"index": 1,
-	"class": {
+	"class_": {
 		"url": "/api/classes/1",
 		"name": "Barbarian"
 	},
@@ -20,7 +20,7 @@
 	"url": "/api/subclasses/1"
 }, {
 	"index": 2,
-	"class": {
+	"class_": {
 		"url": "/api/classes/2",
 		"name": "Bard"
 	},
@@ -33,7 +33,7 @@
 	"url": "/api/subclasses/2"
 }, {
 	"index": 3,
-	"class": {
+	"class_": {
 		"url": "/api/classes/3",
 		"name": "Cleric"
 	},
@@ -128,7 +128,7 @@
 	"url": "/api/subclasses/3"
 }, {
 	"index": 4,
-	"class": {
+	"class_": {
 		"url": "/api/classes/4",
 		"name": "Druid"
 	},
@@ -814,7 +814,7 @@
 	"url": "/api/subclasses/4"
 }, {
 	"index": 5,
-	"class": {
+	"class_": {
 		"url": "/api/classes/5",
 		"name": "Fighter"
 	},
@@ -827,7 +827,7 @@
 	"url": "/api/subclasses/5"
 }, {
 	"index": 6,
-	"class": {
+	"class_": {
 		"url": "/api/classes/6",
 		"name": "Monk"
 	},
@@ -840,7 +840,7 @@
 	"url": "/api/subclasses/6"
 }, {
 	"index": 7,
-	"class": {
+	"class_": {
 		"url": "/api/classes/7",
 		"name": "Paladin"
 	},
@@ -935,7 +935,7 @@
 	"url": "/api/subclasses/7"
 }, {
 	"index": 8,
-	"class": {
+	"class_": {
 		"url": "/api/classes/8",
 		"name": "Ranger"
 	},
@@ -948,7 +948,7 @@
 	"url": "/api/subclasses/8"
 }, {
 	"index": 9,
-	"class": {
+	"class_": {
 		"url": "/api/classes/9",
 		"name": "Rogue"
 	},
@@ -961,7 +961,7 @@
 	"url": "/api/subclasses/9"
 }, {
 	"index": 10,
-	"class": {
+	"class_": {
 		"url": "/api/classes/10",
 		"name": "Sorcerer"
 	},
@@ -974,7 +974,7 @@
 	"url": "/api/subclasses/10"
 }, {
 	"index": 11,
-	"class": {
+	"class_": {
 		"url": "/api/classes/11",
 		"name": "Warlock"
 	},
@@ -1078,7 +1078,7 @@
 	"url": "/api/subclasses/11"
 }, {
 	"index": 12,
-	"class": {
+	"class_": {
 		"url": "/api/classes/12",
 		"name": "Wizard"
 	},
