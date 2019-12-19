@@ -28,6 +28,9 @@ class DndDB:
         self.traits = self.importjson("data/5e-SRD-Traits.json")
         self.weapon_properties = self.importjson("data/5e-SRD-Weapon-Properties.json")
 
+    def reload(self):
+        self.__init__()
+
     @staticmethod
     def importjson(fname):
         with open(fname) as json_file:
